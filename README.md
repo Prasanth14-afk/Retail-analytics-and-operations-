@@ -1,10 +1,10 @@
-# 🏪 HyperRetail - Management Suite
+#  HyperRetail - Management Suite
 
 A comprehensive hypermarket analytics and management platform built with **Next.js 14**, featuring **12,636+ mock records**, a premium **Black-Copper design system**, and **4K-ready** visualizations.
 
-## ✨ Features
+##  Features
 
-### 📊 **Data-Driven Analytics**
+###  **Data-Driven Analytics**
 - **12,636 total records** generated locally (no API calls)
 - 120 Suppliers with delivery details, locations, and ratings
 - 500 Stores across multiple regions
@@ -15,20 +15,20 @@ A comprehensive hypermarket analytics and management platform built with **Next.
 - 6,816 Inventory records
 - Real-time KPIs, trends, and alerts
 
-### 🎨 **Premium Design System**
+###  **Premium Design System**
 - **Brand Palette**: Black (#292421), Copper (#B87333), Pink (#F2B8C6), Tan (#D2B48C), Blush (#E6B7A9), Vanilla (#F8E5C2), Green (#7BB661), Mint (#A8E6CF)
 - **Typography**: Inter (UI) + IBM Plex Mono (numbers)
 - **4K-Optimized**: Crystal-clear at 3840×2160
 - **Smooth Animations**: Framer Motion with reduced-motion support
 
-### 🧭 **Navigation**
+###  **Navigation**
 Redesigned sidebar with:
 - Collapsible design (280px → 72px)
 - Active/hover/focus states with copper accents
 - Profile card with role and store info
 - 11 department and operational pages
 
-### 📈 **Pages & Features**
+###  **Pages & Features**
 
 #### **Executive Dashboard** (`/`)
 - KPI grid: Revenue, Items Sold, Avg Basket, Stock Health
@@ -57,7 +57,7 @@ Each department shows:
 - **Analytics** (`/analytics`) - Advanced visualizations (bar charts, pie charts, ROAS analysis)
 - **Settings** (`/settings`) - Theme preview, system info, data overview
 
-### 🔧 **Technology Stack**
+###  **Technology Stack**
 
 **Frontend Framework**
 - Next.js 14 (App Router)
@@ -83,7 +83,7 @@ Each department shows:
 - Zod for schema validation
 - Deterministic seed (42) for reproducibility
 
-### 📦 **Supplier Integration**
+###  **Supplier Integration**
 
 Every product is linked to a supplier with detailed information:
 - Supplier name and ID
@@ -100,7 +100,7 @@ Every product is linked to a supplier with detailed information:
 - Supplier cards display all delivery details
 - Export functionality includes supplier information
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Node.js 18+ 
@@ -169,7 +169,7 @@ RetailHub/
 └── tailwind.config.ts    # Tailwind configuration
 ```
 
-## 🎯 Key Features
+##  Key Features
 
 ### **No API Calls**
 All data is loaded from local JSON files. The app works completely offline after initial load.
@@ -200,7 +200,7 @@ All components are optimized for high-DPI displays:
 - Optimized bundle size
 - Fast local data loading
 
-## 📊 Data Overview
+##  Data Overview
 
 | Entity | Count | Description |
 |--------|-------|-------------|
@@ -217,7 +217,7 @@ All components are optimized for high-DPI displays:
 | **Finance** | 100 | Daily financial records |
 | **TOTAL** | **12,636** | Total records |
 
-## 🎨 Design Tokens
+##  Design Tokens
 
 ```css
 --clr-black:   #292421  /* Base bg, primary text */
@@ -245,7 +245,7 @@ Edit `tailwind.config.ts` and `app/styles/theme.css`
 2. Add to navigation in `lib/navigation.ts`
 3. Use Layout and components from `components/`
 
-## 📝 Scripts
+##  Scripts
 
 ```bash
 npm run dev          # Start development server
@@ -257,25 +257,25 @@ npm run generate-data # Regenerate mock data
 
 ## 🌟 Highlights
 
-✅ **12,636+ mock records** - No APIs, all local  
-✅ **120 suppliers** with delivery categories, locations, and details  
-✅ **Black-Copper theme** - Premium, professional design  
-✅ **4K-optimized** - Crystal clear at any resolution  
-✅ **Smooth animations** - Framer Motion throughout  
-✅ **Full TypeScript** - Type-safe codebase  
-✅ **11 pages** - Departments, operations, analytics  
-✅ **Collapsible sidebar** - Space-efficient navigation  
-✅ **Export functionality** - CSV export for tables  
-✅ **Accessibility** - WCAG AA compliant  
+ **12,636+ mock records** - No APIs, all local  
+ **120 suppliers** with delivery categories, locations, and details  
+ **Black-Copper theme** - Premium, professional design  
+ **4K-optimized** - Crystal clear at any resolution  
+ **Smooth animations** - Framer Motion throughout  
+ **Full TypeScript** - Type-safe codebase  
+ **11 pages** - Departments, operations, analytics  
+ **Collapsible sidebar** - Space-efficient navigation  
+ **Export functionality** - CSV export for tables  
+ **Accessibility** - WCAG AA compliant  
 
-## 📄 License
+##  License
 
 This project is for demonstration and educational purposes.
 
-## 🤝 Support
+##  Support
 
 For issues or questions, please review the code structure and documentation above.
 
 ---
 
-**Built with ❤️ using Next.js 14, React 18, Tailwind CSS, Framer Motion, and Recharts**
+**Built with  using Next.js 14, React 18, Tailwind CSS, Framer Motion, and Recharts**
