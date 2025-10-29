@@ -122,7 +122,7 @@ npm run generate-data
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) in your browser.
+Open (https://retail-hub-phi.vercel.app) in your browser.
 
 ### Build for Production
 
