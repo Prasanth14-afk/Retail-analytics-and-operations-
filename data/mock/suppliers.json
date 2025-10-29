@@ -1,0 +1,2089 @@
+[
+  {
+    "id": "SUP0001",
+    "name": "Reynolds Group",
+    "location": "Lavadaville",
+    "country": "Jamaica",
+    "deliveryCategories": [
+      "Meat",
+      "Dairy"
+    ],
+    "deliveryFrequency": "daily",
+    "leadTimeDays": 2,
+    "minOrderValue": 761,
+    "rating": 4.2,
+    "contactPerson": "Floyd Conroy",
+    "email": "Akeem93@yahoo.com",
+    "phone": "219.363.6504"
+  },
+  {
+    "id": "SUP0002",
+    "name": "Moore - Jacobs",
+    "location": "North Eladioworth",
+    "country": "Guatemala",
+    "deliveryCategories": [
+      "Electronics"
+    ],
+    "deliveryFrequency": "daily",
+    "leadTimeDays": 7,
+    "minOrderValue": 907,
+    "rating": 4.7,
+    "contactPerson": "Antonio Larkin V",
+    "email": "Alyce45@yahoo.com",
+    "phone": "(299) 958-3300"
+  },
+  {
+    "id": "SUP0003",
+    "name": "Kiehn LLC",
+    "location": "New Jeromehaven",
+    "country": "Antarctica",
+    "deliveryCategories": [
+      "Bakery"
+    ],
+    "deliveryFrequency": "daily",
+    "leadTimeDays": 13,
+    "minOrderValue": 2260,
+    "rating": 3.9,
+    "contactPerson": "Alberta Hahn",
+    "email": "Cordelia.Mante96@yahoo.com",
+    "phone": "(849) 589-5793 x05150"
+  },
+  {
+    "id": "SUP0004",
+    "name": "Lindgren Group",
+    "location": "Fletcherworth",
+    "country": "Estonia",
+    "deliveryCategories": [
+      "Apparel",
+      "Meat",
+      "Bakery",
+      "Electronics"
+    ],
+    "deliveryFrequency": "bi-weekly",
+    "leadTimeDays": 8,
+    "minOrderValue": 1742,
+    "rating": 3.7,
+    "contactPerson": "Jody Blanda",
+    "email": "Henriette.Huels0@hotmail.com",
+    "phone": "817-777-7609"
+  },
+  {
+    "id": "SUP0005",
+    "name": "Stracke, Stark and Mueller",
+    "location": "Erwinland",
+    "country": "Azerbaijan",
+    "deliveryCategories": [
+      "Grocery",
+      "Bakery"
+    ],
+    "deliveryFrequency": "weekly",
+    "leadTimeDays": 5,
+    "minOrderValue": 3510,
+    "rating": 4,
+    "contactPerson": "Pete Nienow",
+    "email": "Kelli_Hoppe71@hotmail.com",
+    "phone": "(875) 372-4057 x41041"
+  },
+  {
+    "id": "SUP0006",
+    "name": "Nienow, Krajcik and Haley",
+    "location": "Johannchester",
+    "country": "Trinidad and Tobago",
+    "deliveryCategories": [
+      "Grocery"
+    ],
+    "deliveryFrequency": "daily",
+    "leadTimeDays": 4,
+    "minOrderValue": 3220,
+    "rating": 4.1,
+    "contactPerson": "Colin Fay Jr.",
+    "email": "Edythe62@yahoo.com",
+    "phone": "461-848-2148 x85381"
+  },
+  {
+    "id": "SUP0007",
+    "name": "Farrell LLC",
+    "location": "Aaronfield",
+    "country": "Greenland",
+    "deliveryCategories": [
+      "Grocery",
+      "Bakery",
+      "Meat",
+      "Electronics"
+    ],
+    "deliveryFrequency": "monthly",
+    "leadTimeDays": 5,
+    "minOrderValue": 531,
+    "rating": 3.7,
+    "contactPerson": "Casey Kuhic",
+    "email": "Blanca_Hauck16@hotmail.com",
+    "phone": "(355) 743-0929 x226"
+  },
+  {
+    "id": "SUP0008",
+    "name": "Graham Group",
+    "location": "West Leonardoworth",
+    "country": "Lesotho",
+    "deliveryCategories": [
+      "Electronics",
+      "Bakery"
+    ],
+    "deliveryFrequency": "weekly",
+    "leadTimeDays": 1,
+    "minOrderValue": 648,
+    "rating": 3.9,
+    "contactPerson": "Laverne Fisher",
+    "email": "Juston24@gmail.com",
+    "phone": "(707) 422-7834 x6963"
+  },
+  {
+    "id": "SUP0009",
+    "name": "Corwin, Hammes and Lang",
+    "location": "Lake Alizehaven",
+    "country": "Mongolia",
+    "deliveryCategories": [
+      "Pharmacy",
+      "Grocery",
+      "Dairy"
+    ],
+    "deliveryFrequency": "weekly",
+    "leadTimeDays": 10,
+    "minOrderValue": 1491,
+    "rating": 3.5,
+    "contactPerson": "Dwight Farrell",
+    "email": "Autumn38@yahoo.com",
+    "phone": "981-737-1295 x8622"
+  },
+  {
+    "id": "SUP0010",
+    "name": "Larson - Lehner",
+    "location": "East Zelma",
+    "country": "Benin",
+    "deliveryCategories": [
+      "Dairy",
+      "Bakery",
+      "Fresh Produce"
+    ],
+    "deliveryFrequency": "monthly",
+    "leadTimeDays": 13,
+    "minOrderValue": 3012,
+    "rating": 4.9,
+    "contactPerson": "Shannon Hayes",
+    "email": "Maxwell88@yahoo.com",
+    "phone": "1-886-809-1786 x650"
+  },
+  {
+    "id": "SUP0011",
+    "name": "Wiza - Abshire",
+    "location": "East Elmer",
+    "country": "Mali",
+    "deliveryCategories": [
+      "Dairy",
+      "Grocery"
+    ],
+    "deliveryFrequency": "weekly",
+    "leadTimeDays": 10,
+    "minOrderValue": 2518,
+    "rating": 4.5,
+    "contactPerson": "Norman Rath",
+    "email": "Jermain64@gmail.com",
+    "phone": "876.455.0536 x2225"
+  },
+  {
+    "id": "SUP0012",
+    "name": "Murray, Kerluke and Schimmel",
+    "location": "New Lula",
+    "country": "Mexico",
+    "deliveryCategories": [
+      "Pharmacy",
+      "Dairy",
+      "Electronics",
+      "Meat"
+    ],
+    "deliveryFrequency": "bi-weekly",
+    "leadTimeDays": 7,
+    "minOrderValue": 4389,
+    "rating": 3.8,
+    "contactPerson": "Candice Goyette",
+    "email": "Odell_Baumbach94@gmail.com",
+    "phone": "929.937.0993 x459"
+  },
+  {
+    "id": "SUP0013",
+    "name": "Grimes and Sons",
+    "location": "East Rowland",
+    "country": "El Salvador",
+    "deliveryCategories": [
+      "Bakery",
+      "Dairy",
+      "Meat"
+    ],
+    "deliveryFrequency": "weekly",
+    "leadTimeDays": 7,
+    "minOrderValue": 1262,
+    "rating": 4,
+    "contactPerson": "Tyler Sporer",
+    "email": "Keyon_Boyer67@hotmail.com",
+    "phone": "412.628.3786 x17735"
+  },
+  {
+    "id": "SUP0014",
+    "name": "Schroeder - Gerhold",
+    "location": "Noblesville",
+    "country": "Turkey",
+    "deliveryCategories": [
+      "Bakery",
+      "Electronics"
+    ],
+    "deliveryFrequency": "daily",
+    "leadTimeDays": 8,
+    "minOrderValue": 523,
+    "rating": 4.3,
+    "contactPerson": "Jermaine O'Conner",
+    "email": "Graciela33@hotmail.com",
+    "phone": "550-556-0341"
+  },
+  {
+    "id": "SUP0015",
+    "name": "Stokes - Bartell",
+    "location": "North Alisha",
+    "country": "Solomon Islands",
+    "deliveryCategories": [
+      "Bakery",
+      "Electronics",
+      "Meat"
+    ],
+    "deliveryFrequency": "weekly",
+    "leadTimeDays": 6,
+    "minOrderValue": 2917,
+    "rating": 3.7,
+    "contactPerson": "Patsy Russel",
+    "email": "Virgie_Koch5@gmail.com",
+    "phone": "645.761.7199"
+  },
+  {
+    "id": "SUP0016",
+    "name": "Jacobi, Goldner and Kerluke",
+    "location": "Natalieton",
+    "country": "Dominica",
+    "deliveryCategories": [
+      "Grocery",
+      "Electronics",
+      "Bakery"
+    ],
+    "deliveryFrequency": "daily",
+    "leadTimeDays": 3,
+    "minOrderValue": 4832,
+    "rating": 3.6,
+    "contactPerson": "Duane Pfeffer",
+    "email": "Chad.Crist@gmail.com",
+    "phone": "607.369.2695"
+  },
+  {
+    "id": "SUP0017",
+    "name": "Renner - Johnston",
+    "location": "East Kennethbury",
+    "country": "Canada",
+    "deliveryCategories": [
+      "Electronics",
+      "Apparel",
+      "Bakery"
+    ],
+    "deliveryFrequency": "monthly",
+    "leadTimeDays": 2,
+    "minOrderValue": 564,
+    "rating": 4,
+    "contactPerson": "Catherine Botsford",
+    "email": "Rupert.Prosacco-Daniel@gmail.com",
+    "phone": "(848) 531-4463"
+  },
+  {
+    "id": "SUP0018",
+    "name": "Nicolas, Torphy and Bayer",
+    "location": "West Adrien",
+    "country": "Nepal",
+    "deliveryCategories": [
+      "Pharmacy"
+    ],
+    "deliveryFrequency": "monthly",
+    "leadTimeDays": 8,
+    "minOrderValue": 2755,
+    "rating": 4.8,
+    "contactPerson": "Lynn Cruickshank",
+    "email": "Tyree_Welch58@gmail.com",
+    "phone": "1-985-735-6148 x5896"
+  },
+  {
+    "id": "SUP0019",
+    "name": "Ullrich - DuBuque",
+    "location": "West Anselberg",
+    "country": "Bhutan",
+    "deliveryCategories": [
+      "Meat",
+      "Dairy"
+    ],
+    "deliveryFrequency": "weekly",
+    "leadTimeDays": 1,
+    "minOrderValue": 675,
+    "rating": 3.6,
+    "contactPerson": "Blake Bernier",
+    "email": "German.Parker81@gmail.com",
+    "phone": "441-763-6980 x748"
+  },
+  {
+    "id": "SUP0020",
+    "name": "Mante, Schoen and Mayer",
+    "location": "Redding",
+    "country": "Iceland",
+    "deliveryCategories": [
+      "Meat",
+      "Fresh Produce",
+      "Apparel",
+      "Electronics"
+    ],
+    "deliveryFrequency": "daily",
+    "leadTimeDays": 6,
+    "minOrderValue": 1625,
+    "rating": 4.7,
+    "contactPerson": "Wesley Waters",
+    "email": "Davion75@hotmail.com",
+    "phone": "239.654.8332"
+  },
+  {
+    "id": "SUP0021",
+    "name": "Ullrich, Stamm and Bosco",
+    "location": "West Verna",
+    "country": "United States Minor Outlying Islands",
+    "deliveryCategories": [
+      "Bakery",
+      "Meat",
+      "Electronics",
+      "Grocery"
+    ],
+    "deliveryFrequency": "bi-weekly",
+    "leadTimeDays": 14,
+    "minOrderValue": 2671,
+    "rating": 4.4,
+    "contactPerson": "Harriet Kirlin",
+    "email": "Leatha75@gmail.com",
+    "phone": "877.209.4909 x50478"
+  },
+  {
+    "id": "SUP0022",
+    "name": "Conroy, Pfeffer and Ruecker",
+    "location": "North Las Vegas",
+    "country": "Switzerland",
+    "deliveryCategories": [
+      "Grocery",
+      "Pharmacy",
+      "Electronics"
+    ],
+    "deliveryFrequency": "daily",
+    "leadTimeDays": 12,
+    "minOrderValue": 878,
+    "rating": 4.1,
+    "contactPerson": "Dr. Curtis Hyatt",
+    "email": "Caden.Langworth98@hotmail.com",
+    "phone": "(483) 982-9995 x7337"
+  },
+  {
+    "id": "SUP0023",
+    "name": "Hodkiewicz, Macejkovic and Purdy",
+    "location": "Deloresside",
+    "country": "Georgia",
+    "deliveryCategories": [
+      "Apparel"
+    ],
+    "deliveryFrequency": "daily",
+    "leadTimeDays": 7,
+    "minOrderValue": 2717,
+    "rating": 3.9,
+    "contactPerson": "Tara Marquardt",
+    "email": "Blair74@hotmail.com",
+    "phone": "752.943.4208 x5249"
+  },
+  {
+    "id": "SUP0024",
+    "name": "Hand Group",
+    "location": "New Thurmanworth",
+    "country": "Turkmenistan",
+    "deliveryCategories": [
+      "Electronics",
+      "Bakery",
+      "Dairy",
+      "Grocery"
+    ],
+    "deliveryFrequency": "daily",
+    "leadTimeDays": 4,
+    "minOrderValue": 2992,
+    "rating": 4.6,
+    "contactPerson": "Joshua Cummerata",
+    "email": "Maurice69@gmail.com",
+    "phone": "(597) 292-9908 x3416"
+  },
+  {
+    "id": "SUP0025",
+    "name": "Oberbrunner and Sons",
+    "location": "West Daphnee",
+    "country": "Moldova",
+    "deliveryCategories": [
+      "Fresh Produce",
+      "Electronics"
+    ],
+    "deliveryFrequency": "weekly",
+    "leadTimeDays": 2,
+    "minOrderValue": 2121,
+    "rating": 5,
+    "contactPerson": "Ora Price",
+    "email": "Dustin68@yahoo.com",
+    "phone": "319-289-9475 x694"
+  },
+  {
+    "id": "SUP0026",
+    "name": "Streich, Lubowitz and Bayer",
+    "location": "North Hannabury",
+    "country": "San Marino",
+    "deliveryCategories": [
+      "Meat"
+    ],
+    "deliveryFrequency": "monthly",
+    "leadTimeDays": 7,
+    "minOrderValue": 4943,
+    "rating": 5,
+    "contactPerson": "Loretta Rohan",
+    "email": "Waino_Spinka@yahoo.com",
+    "phone": "(504) 320-0086"
+  },
+  {
+    "id": "SUP0027",
+    "name": "Luettgen, McDermott and Runte",
+    "location": "Welchfort",
+    "country": "Sudan",
+    "deliveryCategories": [
+      "Bakery",
+      "Meat",
+      "Dairy",
+      "Pharmacy"
+    ],
+    "deliveryFrequency": "weekly",
+    "leadTimeDays": 4,
+    "minOrderValue": 1585,
+    "rating": 4.2,
+    "contactPerson": "Rose Wilkinson",
+    "email": "Coralie61@yahoo.com",
+    "phone": "421-264-5478"
+  },
+  {
+    "id": "SUP0028",
+    "name": "Wisoky - MacGyver",
+    "location": "Fort Paxtonview",
+    "country": "Monaco",
+    "deliveryCategories": [
+      "Pharmacy",
+      "Bakery",
+      "Electronics"
+    ],
+    "deliveryFrequency": "daily",
+    "leadTimeDays": 7,
+    "minOrderValue": 629,
+    "rating": 4.1,
+    "contactPerson": "Sherman Nikolaus",
+    "email": "Craig.Collins@hotmail.com",
+    "phone": "465.735.4097 x35547"
+  },
+  {
+    "id": "SUP0029",
+    "name": "Predovic, Wiegand and Schinner",
+    "location": "South Tiffanyhaven",
+    "country": "Lao People's Democratic Republic",
+    "deliveryCategories": [
+      "Dairy",
+      "Meat",
+      "Electronics",
+      "Apparel"
+    ],
+    "deliveryFrequency": "monthly",
+    "leadTimeDays": 4,
+    "minOrderValue": 798,
+    "rating": 4.2,
+    "contactPerson": "Elisa Kunde",
+    "email": "Corene.McClure7@gmail.com",
+    "phone": "341-614-1661 x1634"
+  },
+  {
+    "id": "SUP0030",
+    "name": "D'Amore, Mills and Dicki",
+    "location": "North Reina",
+    "country": "Central African Republic",
+    "deliveryCategories": [
+      "Bakery",
+      "Meat",
+      "Apparel",
+      "Dairy"
+    ],
+    "deliveryFrequency": "weekly",
+    "leadTimeDays": 4,
+    "minOrderValue": 2064,
+    "rating": 3.7,
+    "contactPerson": "Janet Cartwright",
+    "email": "Flavie.Trantow@yahoo.com",
+    "phone": "463-207-4660 x5819"
+  },
+  {
+    "id": "SUP0031",
+    "name": "Stroman Group",
+    "location": "Lake Lavernberg",
+    "country": "Western Sahara",
+    "deliveryCategories": [
+      "Meat",
+      "Grocery"
+    ],
+    "deliveryFrequency": "daily",
+    "leadTimeDays": 8,
+    "minOrderValue": 2167,
+    "rating": 4.9,
+    "contactPerson": "Sherry Rowe",
+    "email": "Jaleel.Rogahn14@yahoo.com",
+    "phone": "376-985-7501 x843"
+  },
+  {
+    "id": "SUP0032",
+    "name": "Rippin and Sons",
+    "location": "North Kendallborough",
+    "country": "Spain",
+    "deliveryCategories": [
+      "Grocery",
+      "Fresh Produce",
+      "Apparel"
+    ],
+    "deliveryFrequency": "daily",
+    "leadTimeDays": 2,
+    "minOrderValue": 1974,
+    "rating": 4.3,
+    "contactPerson": "Edith Heathcote",
+    "email": "Marielle.Schamberger@yahoo.com",
+    "phone": "255.755.7545 x132"
+  },
+  {
+    "id": "SUP0033",
+    "name": "Mohr - Marks",
+    "location": "West Jessie",
+    "country": "Western Sahara",
+    "deliveryCategories": [
+      "Dairy",
+      "Electronics"
+    ],
+    "deliveryFrequency": "weekly",
+    "leadTimeDays": 9,
+    "minOrderValue": 4702,
+    "rating": 3.8,
+    "contactPerson": "Alice Cremin",
+    "email": "Jeff.Stark28@gmail.com",
+    "phone": "308-800-5046 x99183"
+  },
+  {
+    "id": "SUP0034",
+    "name": "Schumm Group",
+    "location": "South Cecilia",
+    "country": "Qatar",
+    "deliveryCategories": [
+      "Bakery",
+      "Dairy",
+      "Meat"
+    ],
+    "deliveryFrequency": "bi-weekly",
+    "leadTimeDays": 12,
+    "minOrderValue": 4683,
+    "rating": 4.6,
+    "contactPerson": "Casey Kreiger",
+    "email": "Ofelia71@hotmail.com",
+    "phone": "1-357-351-7672 x055"
+  },
+  {
+    "id": "SUP0035",
+    "name": "Hammes - Lemke",
+    "location": "Amelybury",
+    "country": "Germany",
+    "deliveryCategories": [
+      "Meat"
+    ],
+    "deliveryFrequency": "weekly",
+    "leadTimeDays": 2,
+    "minOrderValue": 2969,
+    "rating": 3.6,
+    "contactPerson": "Aubrey Hand",
+    "email": "Ashly76@hotmail.com",
+    "phone": "(644) 647-3198"
+  },
+  {
+    "id": "SUP0036",
+    "name": "Renner, Zboncak and Wehner",
+    "location": "East Genevieve",
+    "country": "Bahamas",
+    "deliveryCategories": [
+      "Grocery",
+      "Electronics",
+      "Dairy",
+      "Bakery"
+    ],
+    "deliveryFrequency": "monthly",
+    "leadTimeDays": 11,
+    "minOrderValue": 3747,
+    "rating": 4.4,
+    "contactPerson": "Dr. Mona Connelly",
+    "email": "Colleen18@hotmail.com",
+    "phone": "(366) 693-3853 x68447"
+  },
+  {
+    "id": "SUP0037",
+    "name": "Gutkowski - Lindgren",
+    "location": "Kesslermouth",
+    "country": "Mexico",
+    "deliveryCategories": [
+      "Apparel",
+      "Meat"
+    ],
+    "deliveryFrequency": "daily",
+    "leadTimeDays": 5,
+    "minOrderValue": 4548,
+    "rating": 4.1,
+    "contactPerson": "Nora Bergstrom I",
+    "email": "Kariane62@yahoo.com",
+    "phone": "461.378.6457 x8579"
+  },
+  {
+    "id": "SUP0038",
+    "name": "Quigley Inc",
+    "location": "Robertsville",
+    "country": "Antarctica",
+    "deliveryCategories": [
+      "Dairy"
+    ],
+    "deliveryFrequency": "daily",
+    "leadTimeDays": 8,
+    "minOrderValue": 3714,
+    "rating": 4.7,
+    "contactPerson": "Leigh Heaney",
+    "email": "Kaitlin12@hotmail.com",
+    "phone": "(557) 614-2477 x7065"
+  },
+  {
+    "id": "SUP0039",
+    "name": "Miller and Sons",
+    "location": "Cincinnati",
+    "country": "Uzbekistan",
+    "deliveryCategories": [
+      "Meat",
+      "Apparel",
+      "Pharmacy"
+    ],
+    "deliveryFrequency": "monthly",
+    "leadTimeDays": 5,
+    "minOrderValue": 3125,
+    "rating": 3.8,
+    "contactPerson": "Wilma Green V",
+    "email": "Tanner.Conn@gmail.com",
+    "phone": "(407) 859-1596 x7907"
+  },
+  {
+    "id": "SUP0040",
+    "name": "Moen - Bernhard",
+    "location": "Aricester",
+    "country": "Bhutan",
+    "deliveryCategories": [
+      "Apparel",
+      "Bakery",
+      "Fresh Produce"
+    ],
+    "deliveryFrequency": "monthly",
+    "leadTimeDays": 12,
+    "minOrderValue": 4665,
+    "rating": 4.9,
+    "contactPerson": "Mrs. Joan Feil PhD",
+    "email": "Bradly_Waelchi31@gmail.com",
+    "phone": "356-530-7328 x7063"
+  },
+  {
+    "id": "SUP0041",
+    "name": "Lind - Stracke",
+    "location": "Union City",
+    "country": "Greece",
+    "deliveryCategories": [
+      "Apparel"
+    ],
+    "deliveryFrequency": "weekly",
+    "leadTimeDays": 5,
+    "minOrderValue": 2664,
+    "rating": 4.6,
+    "contactPerson": "Adrian Fahey",
+    "email": "Tara_Franey49@yahoo.com",
+    "phone": "1-509-437-5262"
+  },
+  {
+    "id": "SUP0042",
+    "name": "Larkin - Daugherty",
+    "location": "West Covina",
+    "country": "Jordan",
+    "deliveryCategories": [
+      "Fresh Produce"
+    ],
+    "deliveryFrequency": "daily",
+    "leadTimeDays": 8,
+    "minOrderValue": 2366,
+    "rating": 4.8,
+    "contactPerson": "Nina Denesik-Kuvalis",
+    "email": "Elsie20@yahoo.com",
+    "phone": "932-516-0348 x55027"
+  },
+  {
+    "id": "SUP0043",
+    "name": "Kiehn - Kshlerin",
+    "location": "Jerrystad",
+    "country": "Saint Pierre and Miquelon",
+    "deliveryCategories": [
+      "Dairy",
+      "Meat",
+      "Apparel"
+    ],
+    "deliveryFrequency": "daily",
+    "leadTimeDays": 2,
+    "minOrderValue": 1318,
+    "rating": 4,
+    "contactPerson": "Joshua Romaguera",
+    "email": "Donald.Nolan@gmail.com",
+    "phone": "291-878-6405 x22216"
+  },
+  {
+    "id": "SUP0044",
+    "name": "Schmidt - Marks",
+    "location": "Fort Macystad",
+    "country": "Democratic Republic of the Congo",
+    "deliveryCategories": [
+      "Meat",
+      "Pharmacy",
+      "Grocery"
+    ],
+    "deliveryFrequency": "bi-weekly",
+    "leadTimeDays": 2,
+    "minOrderValue": 4124,
+    "rating": 3.8,
+    "contactPerson": "Dr. Archie Steuber",
+    "email": "Grady.Ortiz40@hotmail.com",
+    "phone": "480-260-7280 x118"
+  },
+  {
+    "id": "SUP0045",
+    "name": "Vandervort, Schumm and Muller",
+    "location": "West Destini",
+    "country": "Somalia",
+    "deliveryCategories": [
+      "Pharmacy",
+      "Electronics",
+      "Bakery"
+    ],
+    "deliveryFrequency": "weekly",
+    "leadTimeDays": 6,
+    "minOrderValue": 3156,
+    "rating": 3.5,
+    "contactPerson": "Kari Hegmann",
+    "email": "Katrina21@hotmail.com",
+    "phone": "977.318.5498 x47144"
+  },
+  {
+    "id": "SUP0046",
+    "name": "Robel LLC",
+    "location": "Naderview",
+    "country": "Ecuador",
+    "deliveryCategories": [
+      "Pharmacy"
+    ],
+    "deliveryFrequency": "daily",
+    "leadTimeDays": 2,
+    "minOrderValue": 3403,
+    "rating": 4.8,
+    "contactPerson": "Melba Leffler Sr.",
+    "email": "Donnie52@hotmail.com",
+    "phone": "(854) 405-4648"
+  },
+  {
+    "id": "SUP0047",
+    "name": "Collins and Sons",
+    "location": "East Providence",
+    "country": "Taiwan",
+    "deliveryCategories": [
+      "Dairy",
+      "Grocery",
+      "Fresh Produce"
+    ],
+    "deliveryFrequency": "bi-weekly",
+    "leadTimeDays": 9,
+    "minOrderValue": 1628,
+    "rating": 4.4,
+    "contactPerson": "Rex Daniel",
+    "email": "Rodrigo_Jakubowski@hotmail.com",
+    "phone": "503-397-1006 x7203"
+  },
+  {
+    "id": "SUP0048",
+    "name": "Reichert, Gulgowski and Monahan",
+    "location": "Ursulaport",
+    "country": "Holy See (Vatican City State)",
+    "deliveryCategories": [
+      "Pharmacy",
+      "Meat",
+      "Apparel",
+      "Electronics"
+    ],
+    "deliveryFrequency": "bi-weekly",
+    "leadTimeDays": 14,
+    "minOrderValue": 4716,
+    "rating": 3.7,
+    "contactPerson": "Tyrone Glover",
+    "email": "Dewayne84@yahoo.com",
+    "phone": "951.467.4130 x374"
+  },
+  {
+    "id": "SUP0049",
+    "name": "Kerluke - Koelpin",
+    "location": "North Reece",
+    "country": "Barbados",
+    "deliveryCategories": [
+      "Pharmacy",
+      "Bakery"
+    ],
+    "deliveryFrequency": "monthly",
+    "leadTimeDays": 1,
+    "minOrderValue": 3626,
+    "rating": 5,
+    "contactPerson": "Linda Brakus",
+    "email": "Audra79@gmail.com",
+    "phone": "745.305.9877 x68767"
+  },
+  {
+    "id": "SUP0050",
+    "name": "Turner and Sons",
+    "location": "Ernserchester",
+    "country": "Western Sahara",
+    "deliveryCategories": [
+      "Dairy",
+      "Meat",
+      "Bakery"
+    ],
+    "deliveryFrequency": "daily",
+    "leadTimeDays": 14,
+    "minOrderValue": 3515,
+    "rating": 3.5,
+    "contactPerson": "Mrs. Flora Walsh V",
+    "email": "Jaqueline.Hahn69@yahoo.com",
+    "phone": "419.294.9747 x8084"
+  },
+  {
+    "id": "SUP0051",
+    "name": "Bashirian - O'Conner",
+    "location": "Franzburgh",
+    "country": "Martinique",
+    "deliveryCategories": [
+      "Bakery",
+      "Pharmacy"
+    ],
+    "deliveryFrequency": "daily",
+    "leadTimeDays": 7,
+    "minOrderValue": 846,
+    "rating": 4.9,
+    "contactPerson": "Bob Kiehn",
+    "email": "Anjali53@yahoo.com",
+    "phone": "737-758-4682 x40489"
+  },
+  {
+    "id": "SUP0052",
+    "name": "Denesik, Lehner and Hoppe",
+    "location": "Vancouver",
+    "country": "Seychelles",
+    "deliveryCategories": [
+      "Grocery"
+    ],
+    "deliveryFrequency": "daily",
+    "leadTimeDays": 14,
+    "minOrderValue": 542,
+    "rating": 4,
+    "contactPerson": "Blanca Jacobson",
+    "email": "Jayce98@yahoo.com",
+    "phone": "1-804-445-7720 x143"
+  },
+  {
+    "id": "SUP0053",
+    "name": "Rau Inc",
+    "location": "Allieboro",
+    "country": "American Samoa",
+    "deliveryCategories": [
+      "Bakery",
+      "Electronics"
+    ],
+    "deliveryFrequency": "monthly",
+    "leadTimeDays": 14,
+    "minOrderValue": 702,
+    "rating": 4.1,
+    "contactPerson": "Katie Parisian",
+    "email": "Vern8@gmail.com",
+    "phone": "(598) 996-4969 x1790"
+  },
+  {
+    "id": "SUP0054",
+    "name": "Smitham, O'Conner and Feeney",
+    "location": "Simonismouth",
+    "country": "Botswana",
+    "deliveryCategories": [
+      "Apparel"
+    ],
+    "deliveryFrequency": "daily",
+    "leadTimeDays": 1,
+    "minOrderValue": 1294,
+    "rating": 4.1,
+    "contactPerson": "Dr. Ruth Will",
+    "email": "Presley88@yahoo.com",
+    "phone": "959-612-3574 x6918"
+  },
+  {
+    "id": "SUP0055",
+    "name": "Leuschke, Barton and Medhurst",
+    "location": "Moreno Valley",
+    "country": "Sweden",
+    "deliveryCategories": [
+      "Dairy",
+      "Meat",
+      "Fresh Produce",
+      "Apparel"
+    ],
+    "deliveryFrequency": "daily",
+    "leadTimeDays": 7,
+    "minOrderValue": 4449,
+    "rating": 4.1,
+    "contactPerson": "Rhonda Kreiger Jr.",
+    "email": "Roy65@hotmail.com",
+    "phone": "1-670-442-3026 x70450"
+  },
+  {
+    "id": "SUP0056",
+    "name": "Zboncak Group",
+    "location": "South Sharonmouth",
+    "country": "Liechtenstein",
+    "deliveryCategories": [
+      "Bakery",
+      "Pharmacy",
+      "Grocery",
+      "Fresh Produce"
+    ],
+    "deliveryFrequency": "bi-weekly",
+    "leadTimeDays": 13,
+    "minOrderValue": 4211,
+    "rating": 4.4,
+    "contactPerson": "Alberta Little",
+    "email": "Dock_Thiel@hotmail.com",
+    "phone": "(728) 381-7382 x69616"
+  },
+  {
+    "id": "SUP0057",
+    "name": "Thompson, Willms and Swaniawski",
+    "location": "Alessiaside",
+    "country": "Somalia",
+    "deliveryCategories": [
+      "Grocery",
+      "Fresh Produce",
+      "Dairy"
+    ],
+    "deliveryFrequency": "daily",
+    "leadTimeDays": 2,
+    "minOrderValue": 4190,
+    "rating": 4,
+    "contactPerson": "Latoya Crooks",
+    "email": "Kayli.Roob@hotmail.com",
+    "phone": "320-639-5612"
+  },
+  {
+    "id": "SUP0058",
+    "name": "Schuppe - Satterfield",
+    "location": "North Ebbafort",
+    "country": "American Samoa",
+    "deliveryCategories": [
+      "Grocery",
+      "Bakery"
+    ],
+    "deliveryFrequency": "bi-weekly",
+    "leadTimeDays": 7,
+    "minOrderValue": 4834,
+    "rating": 4.8,
+    "contactPerson": "Sue Daugherty DDS",
+    "email": "Pat6@gmail.com",
+    "phone": "417.807.5430 x60088"
+  },
+  {
+    "id": "SUP0059",
+    "name": "O'Connell, Christiansen and Mertz",
+    "location": "Hoppetown",
+    "country": "Bahamas",
+    "deliveryCategories": [
+      "Electronics",
+      "Bakery",
+      "Pharmacy",
+      "Meat"
+    ],
+    "deliveryFrequency": "daily",
+    "leadTimeDays": 12,
+    "minOrderValue": 1956,
+    "rating": 4,
+    "contactPerson": "Muriel Fritsch",
+    "email": "Isabell_Goodwin@gmail.com",
+    "phone": "514.815.7862 x28076"
+  },
+  {
+    "id": "SUP0060",
+    "name": "Goodwin Group",
+    "location": "West Hartford",
+    "country": "Cambodia",
+    "deliveryCategories": [
+      "Bakery"
+    ],
+    "deliveryFrequency": "daily",
+    "leadTimeDays": 7,
+    "minOrderValue": 3791,
+    "rating": 5,
+    "contactPerson": "Milton Nikolaus III",
+    "email": "Dorothea.Wyman32@hotmail.com",
+    "phone": "1-727-320-8673 x58445"
+  },
+  {
+    "id": "SUP0061",
+    "name": "Sanford Inc",
+    "location": "Klinghaven",
+    "country": "Madagascar",
+    "deliveryCategories": [
+      "Pharmacy",
+      "Dairy",
+      "Meat",
+      "Fresh Produce"
+    ],
+    "deliveryFrequency": "monthly",
+    "leadTimeDays": 1,
+    "minOrderValue": 3318,
+    "rating": 4.7,
+    "contactPerson": "Eleanor Veum DVM",
+    "email": "Christophe.Koepp@yahoo.com",
+    "phone": "(616) 724-5224"
+  },
+  {
+    "id": "SUP0062",
+    "name": "McCullough - Hansen",
+    "location": "New Phyllis",
+    "country": "Ireland",
+    "deliveryCategories": [
+      "Grocery"
+    ],
+    "deliveryFrequency": "weekly",
+    "leadTimeDays": 14,
+    "minOrderValue": 2548,
+    "rating": 3.7,
+    "contactPerson": "Lillie Parisian",
+    "email": "Jaycee_Miller-Reichert69@yahoo.com",
+    "phone": "897-907-4711 x21951"
+  },
+  {
+    "id": "SUP0063",
+    "name": "Mosciski - Ebert",
+    "location": "Hegmannstad",
+    "country": "San Marino",
+    "deliveryCategories": [
+      "Apparel"
+    ],
+    "deliveryFrequency": "daily",
+    "leadTimeDays": 14,
+    "minOrderValue": 1969,
+    "rating": 3.6,
+    "contactPerson": "Casey Tillman",
+    "email": "Alexanne.Block@gmail.com",
+    "phone": "(395) 366-8820 x161"
+  },
+  {
+    "id": "SUP0064",
+    "name": "Mertz Group",
+    "location": "Bechtelarfurt",
+    "country": "Malaysia",
+    "deliveryCategories": [
+      "Meat",
+      "Pharmacy",
+      "Grocery",
+      "Bakery"
+    ],
+    "deliveryFrequency": "weekly",
+    "leadTimeDays": 10,
+    "minOrderValue": 4709,
+    "rating": 4.8,
+    "contactPerson": "Mr. Kelvin Schmitt",
+    "email": "Rasheed_Block@yahoo.com",
+    "phone": "658-844-6051 x7407"
+  },
+  {
+    "id": "SUP0065",
+    "name": "O'Conner Inc",
+    "location": "Savanahfurt",
+    "country": "Croatia",
+    "deliveryCategories": [
+      "Pharmacy"
+    ],
+    "deliveryFrequency": "weekly",
+    "leadTimeDays": 14,
+    "minOrderValue": 2616,
+    "rating": 4,
+    "contactPerson": "Shawn Schamberger",
+    "email": "Althea.Crooks@yahoo.com",
+    "phone": "723.959.4601 x4620"
+  },
+  {
+    "id": "SUP0066",
+    "name": "Spencer and Sons",
+    "location": "Port Victorcester",
+    "country": "India",
+    "deliveryCategories": [
+      "Fresh Produce",
+      "Grocery"
+    ],
+    "deliveryFrequency": "bi-weekly",
+    "leadTimeDays": 12,
+    "minOrderValue": 2415,
+    "rating": 4.5,
+    "contactPerson": "Miss Whitney Runte Jr.",
+    "email": "Sandra.Mayert@yahoo.com",
+    "phone": "734-685-9746"
+  },
+  {
+    "id": "SUP0067",
+    "name": "Veum and Sons",
+    "location": "South Lincoln",
+    "country": "Kazakhstan",
+    "deliveryCategories": [
+      "Pharmacy",
+      "Meat"
+    ],
+    "deliveryFrequency": "bi-weekly",
+    "leadTimeDays": 12,
+    "minOrderValue": 3799,
+    "rating": 3.8,
+    "contactPerson": "Roxanne Jakubowski V",
+    "email": "Lora18@gmail.com",
+    "phone": "1-804-520-8445 x553"
+  },
+  {
+    "id": "SUP0068",
+    "name": "Hudson - Hahn",
+    "location": "Hillsboro",
+    "country": "Ecuador",
+    "deliveryCategories": [
+      "Dairy",
+      "Grocery",
+      "Pharmacy"
+    ],
+    "deliveryFrequency": "monthly",
+    "leadTimeDays": 10,
+    "minOrderValue": 540,
+    "rating": 4,
+    "contactPerson": "Edmund Christiansen",
+    "email": "Dasia_Feil7@hotmail.com",
+    "phone": "335.536.8144 x256"
+  },
+  {
+    "id": "SUP0069",
+    "name": "Hoeger Inc",
+    "location": "Rippinbury",
+    "country": "Northern Mariana Islands",
+    "deliveryCategories": [
+      "Meat",
+      "Dairy",
+      "Fresh Produce",
+      "Bakery"
+    ],
+    "deliveryFrequency": "bi-weekly",
+    "leadTimeDays": 7,
+    "minOrderValue": 4018,
+    "rating": 4.8,
+    "contactPerson": "Dr. Leland McDermott",
+    "email": "Constantin.Brown98@yahoo.com",
+    "phone": "252-900-6124"
+  },
+  {
+    "id": "SUP0070",
+    "name": "Halvorson Inc",
+    "location": "Kurttown",
+    "country": "Panama",
+    "deliveryCategories": [
+      "Meat"
+    ],
+    "deliveryFrequency": "daily",
+    "leadTimeDays": 6,
+    "minOrderValue": 4940,
+    "rating": 4.2,
+    "contactPerson": "Grant Auer II",
+    "email": "Wava.McClure@yahoo.com",
+    "phone": "643-751-1013 x1792"
+  },
+  {
+    "id": "SUP0071",
+    "name": "Botsford LLC",
+    "location": "Cristport",
+    "country": "Czechia",
+    "deliveryCategories": [
+      "Meat",
+      "Fresh Produce",
+      "Bakery"
+    ],
+    "deliveryFrequency": "monthly",
+    "leadTimeDays": 14,
+    "minOrderValue": 1297,
+    "rating": 3.9,
+    "contactPerson": "Alfonso Wolff III",
+    "email": "Ahmad_Frami@hotmail.com",
+    "phone": "(857) 219-7696 x62968"
+  },
+  {
+    "id": "SUP0072",
+    "name": "Breitenberg - Heidenreich",
+    "location": "Croninworth",
+    "country": "Morocco",
+    "deliveryCategories": [
+      "Pharmacy",
+      "Bakery"
+    ],
+    "deliveryFrequency": "daily",
+    "leadTimeDays": 5,
+    "minOrderValue": 4898,
+    "rating": 4.8,
+    "contactPerson": "Mrs. Ollie Rolfson",
+    "email": "Edwin40@yahoo.com",
+    "phone": "496-589-7873 x48831"
+  },
+  {
+    "id": "SUP0073",
+    "name": "Harber and Sons",
+    "location": "Hilllfurt",
+    "country": "Holy See (Vatican City State)",
+    "deliveryCategories": [
+      "Meat",
+      "Pharmacy"
+    ],
+    "deliveryFrequency": "bi-weekly",
+    "leadTimeDays": 10,
+    "minOrderValue": 2212,
+    "rating": 4.1,
+    "contactPerson": "Harvey Ferry",
+    "email": "Irving_Ankunding60@yahoo.com",
+    "phone": "1-766-845-3589"
+  },
+  {
+    "id": "SUP0074",
+    "name": "Schulist and Sons",
+    "location": "South Calistaview",
+    "country": "Macao",
+    "deliveryCategories": [
+      "Bakery",
+      "Apparel",
+      "Dairy"
+    ],
+    "deliveryFrequency": "bi-weekly",
+    "leadTimeDays": 4,
+    "minOrderValue": 2901,
+    "rating": 4.2,
+    "contactPerson": "Dr. Tyler Lowe",
+    "email": "Michel43@hotmail.com",
+    "phone": "960-992-6930"
+  },
+  {
+    "id": "SUP0075",
+    "name": "Herman - Dietrich",
+    "location": "East Jeaniefurt",
+    "country": "Dominican Republic",
+    "deliveryCategories": [
+      "Meat"
+    ],
+    "deliveryFrequency": "bi-weekly",
+    "leadTimeDays": 4,
+    "minOrderValue": 3516,
+    "rating": 3.9,
+    "contactPerson": "Wilbert Lindgren",
+    "email": "Assunta27@gmail.com",
+    "phone": "581.611.6817 x51721"
+  },
+  {
+    "id": "SUP0076",
+    "name": "Kassulke, Kub and Bogisich",
+    "location": "Scottsdale",
+    "country": "Malta",
+    "deliveryCategories": [
+      "Meat",
+      "Dairy",
+      "Fresh Produce",
+      "Pharmacy"
+    ],
+    "deliveryFrequency": "weekly",
+    "leadTimeDays": 1,
+    "minOrderValue": 2869,
+    "rating": 4.5,
+    "contactPerson": "Lorene Mills",
+    "email": "Jordy_Medhurst21@hotmail.com",
+    "phone": "1-614-489-9735 x2273"
+  },
+  {
+    "id": "SUP0077",
+    "name": "Kassulke, Osinski and Orn",
+    "location": "Bossier City",
+    "country": "Saint Pierre and Miquelon",
+    "deliveryCategories": [
+      "Meat",
+      "Bakery"
+    ],
+    "deliveryFrequency": "bi-weekly",
+    "leadTimeDays": 3,
+    "minOrderValue": 2533,
+    "rating": 4.1,
+    "contactPerson": "Aaron Feil",
+    "email": "Sallie.Emmerich@hotmail.com",
+    "phone": "1-236-362-5622"
+  },
+  {
+    "id": "SUP0078",
+    "name": "Kunze Inc",
+    "location": "El Cajon",
+    "country": "Brunei Darussalam",
+    "deliveryCategories": [
+      "Pharmacy",
+      "Bakery"
+    ],
+    "deliveryFrequency": "bi-weekly",
+    "leadTimeDays": 10,
+    "minOrderValue": 3541,
+    "rating": 4.1,
+    "contactPerson": "Jessie Raynor",
+    "email": "Afton60@hotmail.com",
+    "phone": "459.470.2068 x5143"
+  },
+  {
+    "id": "SUP0079",
+    "name": "Morissette - Bernhard",
+    "location": "Josiahhaven",
+    "country": "Bahamas",
+    "deliveryCategories": [
+      "Electronics",
+      "Fresh Produce"
+    ],
+    "deliveryFrequency": "bi-weekly",
+    "leadTimeDays": 12,
+    "minOrderValue": 814,
+    "rating": 3.8,
+    "contactPerson": "Dave Thompson",
+    "email": "Marilou.Feeney33@yahoo.com",
+    "phone": "709.563.5974"
+  },
+  {
+    "id": "SUP0080",
+    "name": "MacGyver - Bogisich",
+    "location": "West Des Moines",
+    "country": "Chad",
+    "deliveryCategories": [
+      "Grocery",
+      "Electronics"
+    ],
+    "deliveryFrequency": "bi-weekly",
+    "leadTimeDays": 10,
+    "minOrderValue": 3897,
+    "rating": 3.8,
+    "contactPerson": "Nina Boyer",
+    "email": "Reina.Abbott@yahoo.com",
+    "phone": "1-974-932-1391 x0979"
+  },
+  {
+    "id": "SUP0081",
+    "name": "Bosco - Mueller",
+    "location": "North Parker",
+    "country": "Saint Lucia",
+    "deliveryCategories": [
+      "Apparel",
+      "Bakery",
+      "Fresh Produce",
+      "Pharmacy"
+    ],
+    "deliveryFrequency": "monthly",
+    "leadTimeDays": 2,
+    "minOrderValue": 3238,
+    "rating": 4.8,
+    "contactPerson": "Gregg Quitzon",
+    "email": "Bill.Farrell36@gmail.com",
+    "phone": "1-239-355-3832 x496"
+  },
+  {
+    "id": "SUP0082",
+    "name": "Marvin - Zemlak",
+    "location": "Roxanebury",
+    "country": "Cook Islands",
+    "deliveryCategories": [
+      "Apparel",
+      "Bakery",
+      "Fresh Produce",
+      "Pharmacy"
+    ],
+    "deliveryFrequency": "bi-weekly",
+    "leadTimeDays": 14,
+    "minOrderValue": 2287,
+    "rating": 3.6,
+    "contactPerson": "Bryant Homenick",
+    "email": "Kacey79@hotmail.com",
+    "phone": "480.440.1162"
+  },
+  {
+    "id": "SUP0083",
+    "name": "Nitzsche - Watsica",
+    "location": "Montebello",
+    "country": "British Indian Ocean Territory (Chagos Archipelago)",
+    "deliveryCategories": [
+      "Dairy",
+      "Meat"
+    ],
+    "deliveryFrequency": "weekly",
+    "leadTimeDays": 13,
+    "minOrderValue": 1912,
+    "rating": 4.9,
+    "contactPerson": "Lonnie Moen DDS",
+    "email": "Chandler82@hotmail.com",
+    "phone": "1-731-240-5129"
+  },
+  {
+    "id": "SUP0084",
+    "name": "Wintheiser, Cartwright and Kemmer",
+    "location": "Elvisshire",
+    "country": "Liberia",
+    "deliveryCategories": [
+      "Pharmacy"
+    ],
+    "deliveryFrequency": "monthly",
+    "leadTimeDays": 7,
+    "minOrderValue": 1750,
+    "rating": 3.6,
+    "contactPerson": "Homer Emmerich",
+    "email": "Leatha.Hickle6@yahoo.com",
+    "phone": "(814) 304-9706 x6294"
+  },
+  {
+    "id": "SUP0085",
+    "name": "Blanda Inc",
+    "location": "Gutmannboro",
+    "country": "Bhutan",
+    "deliveryCategories": [
+      "Fresh Produce"
+    ],
+    "deliveryFrequency": "daily",
+    "leadTimeDays": 10,
+    "minOrderValue": 3612,
+    "rating": 3.5,
+    "contactPerson": "Max Zieme",
+    "email": "Darlene.Ernser62@hotmail.com",
+    "phone": "1-684-717-8446 x1335"
+  },
+  {
+    "id": "SUP0086",
+    "name": "Reynolds and Sons",
+    "location": "Windlertown",
+    "country": "Djibouti",
+    "deliveryCategories": [
+      "Bakery",
+      "Apparel"
+    ],
+    "deliveryFrequency": "weekly",
+    "leadTimeDays": 2,
+    "minOrderValue": 2666,
+    "rating": 4.1,
+    "contactPerson": "Alexandra McCullough",
+    "email": "Brigitte.Leuschke@hotmail.com",
+    "phone": "(282) 791-8090 x431"
+  },
+  {
+    "id": "SUP0087",
+    "name": "Kutch - Sporer",
+    "location": "North Callie",
+    "country": "Kyrgyz Republic",
+    "deliveryCategories": [
+      "Meat",
+      "Pharmacy"
+    ],
+    "deliveryFrequency": "daily",
+    "leadTimeDays": 3,
+    "minOrderValue": 4391,
+    "rating": 4,
+    "contactPerson": "Ms. Bridget Kreiger",
+    "email": "Godfrey_Koelpin@yahoo.com",
+    "phone": "919.276.3968 x40228"
+  },
+  {
+    "id": "SUP0088",
+    "name": "Shanahan - Nienow",
+    "location": "Magdalenbury",
+    "country": "Togo",
+    "deliveryCategories": [
+      "Apparel",
+      "Bakery",
+      "Fresh Produce",
+      "Grocery"
+    ],
+    "deliveryFrequency": "weekly",
+    "leadTimeDays": 9,
+    "minOrderValue": 1521,
+    "rating": 4.4,
+    "contactPerson": "Stephen Leannon Sr.",
+    "email": "Myriam4@gmail.com",
+    "phone": "277-708-0100"
+  },
+  {
+    "id": "SUP0089",
+    "name": "Gulgowski - Zemlak",
+    "location": "Fort Onie",
+    "country": "United Kingdom",
+    "deliveryCategories": [
+      "Fresh Produce",
+      "Electronics",
+      "Bakery",
+      "Pharmacy"
+    ],
+    "deliveryFrequency": "bi-weekly",
+    "leadTimeDays": 11,
+    "minOrderValue": 1333,
+    "rating": 4,
+    "contactPerson": "Gertrude Lowe",
+    "email": "Norris.Gleason@hotmail.com",
+    "phone": "(259) 927-7269"
+  },
+  {
+    "id": "SUP0090",
+    "name": "Cartwright and Sons",
+    "location": "Gibsonfort",
+    "country": "Bahrain",
+    "deliveryCategories": [
+      "Fresh Produce",
+      "Bakery"
+    ],
+    "deliveryFrequency": "bi-weekly",
+    "leadTimeDays": 14,
+    "minOrderValue": 2886,
+    "rating": 4.2,
+    "contactPerson": "Alyssa Hand-Schmeler",
+    "email": "Jaron_Bruen-Mills@gmail.com",
+    "phone": "1-758-661-1031 x95203"
+  },
+  {
+    "id": "SUP0091",
+    "name": "Howell - Moore",
+    "location": "Fort Dorianburgh",
+    "country": "Uganda",
+    "deliveryCategories": [
+      "Meat",
+      "Apparel"
+    ],
+    "deliveryFrequency": "daily",
+    "leadTimeDays": 10,
+    "minOrderValue": 1388,
+    "rating": 4.2,
+    "contactPerson": "Richard Zemlak",
+    "email": "Ray25@hotmail.com",
+    "phone": "1-626-824-9877 x57160"
+  },
+  {
+    "id": "SUP0092",
+    "name": "Romaguera - Wyman",
+    "location": "Fort Kamille",
+    "country": "Argentina",
+    "deliveryCategories": [
+      "Electronics"
+    ],
+    "deliveryFrequency": "bi-weekly",
+    "leadTimeDays": 3,
+    "minOrderValue": 985,
+    "rating": 3.7,
+    "contactPerson": "Marco Schumm I",
+    "email": "Jodie_Spencer@yahoo.com",
+    "phone": "1-675-756-2151 x608"
+  },
+  {
+    "id": "SUP0093",
+    "name": "Cronin - Crooks",
+    "location": "Kearatown",
+    "country": "Slovakia",
+    "deliveryCategories": [
+      "Pharmacy",
+      "Dairy",
+      "Bakery"
+    ],
+    "deliveryFrequency": "daily",
+    "leadTimeDays": 11,
+    "minOrderValue": 3769,
+    "rating": 4.9,
+    "contactPerson": "Randall Dickinson",
+    "email": "Porter_Doyle74@hotmail.com",
+    "phone": "866.363.3755 x5087"
+  },
+  {
+    "id": "SUP0094",
+    "name": "Rohan Group",
+    "location": "Hillschester",
+    "country": "Gambia",
+    "deliveryCategories": [
+      "Meat",
+      "Pharmacy",
+      "Bakery",
+      "Grocery"
+    ],
+    "deliveryFrequency": "monthly",
+    "leadTimeDays": 3,
+    "minOrderValue": 4289,
+    "rating": 3.9,
+    "contactPerson": "Leigh Zieme",
+    "email": "German88@yahoo.com",
+    "phone": "613.740.6100"
+  },
+  {
+    "id": "SUP0095",
+    "name": "Howell, Bosco and Jacobson",
+    "location": "Scottymouth",
+    "country": "Libyan Arab Jamahiriya",
+    "deliveryCategories": [
+      "Meat",
+      "Electronics",
+      "Fresh Produce"
+    ],
+    "deliveryFrequency": "bi-weekly",
+    "leadTimeDays": 11,
+    "minOrderValue": 791,
+    "rating": 3.6,
+    "contactPerson": "Norman Prosacco",
+    "email": "Leif_Padberg@gmail.com",
+    "phone": "(408) 446-0106 x3779"
+  },
+  {
+    "id": "SUP0096",
+    "name": "Lebsack - Kiehn",
+    "location": "East Bonnie",
+    "country": "Gambia",
+    "deliveryCategories": [
+      "Pharmacy",
+      "Bakery",
+      "Fresh Produce"
+    ],
+    "deliveryFrequency": "bi-weekly",
+    "leadTimeDays": 7,
+    "minOrderValue": 1561,
+    "rating": 3.6,
+    "contactPerson": "Miss Carmen Metz",
+    "email": "Zoie_Watsica17@hotmail.com",
+    "phone": "1-764-811-6498 x737"
+  },
+  {
+    "id": "SUP0097",
+    "name": "Mann and Sons",
+    "location": "Frisco",
+    "country": "Cayman Islands",
+    "deliveryCategories": [
+      "Fresh Produce",
+      "Pharmacy",
+      "Meat"
+    ],
+    "deliveryFrequency": "daily",
+    "leadTimeDays": 10,
+    "minOrderValue": 608,
+    "rating": 4.4,
+    "contactPerson": "Terrance Predovic",
+    "email": "Elias.Weimann85@hotmail.com",
+    "phone": "1-383-841-4844 x947"
+  },
+  {
+    "id": "SUP0098",
+    "name": "Beatty LLC",
+    "location": "Linden",
+    "country": "Tunisia",
+    "deliveryCategories": [
+      "Bakery"
+    ],
+    "deliveryFrequency": "weekly",
+    "leadTimeDays": 11,
+    "minOrderValue": 3783,
+    "rating": 3.5,
+    "contactPerson": "Larry Fahey",
+    "email": "Brianne47@gmail.com",
+    "phone": "202.202.0222 x29729"
+  },
+  {
+    "id": "SUP0099",
+    "name": "Kirlin - Sporer",
+    "location": "Gleichnerton",
+    "country": "Cameroon",
+    "deliveryCategories": [
+      "Bakery",
+      "Electronics"
+    ],
+    "deliveryFrequency": "weekly",
+    "leadTimeDays": 12,
+    "minOrderValue": 651,
+    "rating": 3.5,
+    "contactPerson": "Ada MacGyver",
+    "email": "Juwan8@yahoo.com",
+    "phone": "1-307-759-1589 x30847"
+  },
+  {
+    "id": "SUP0100",
+    "name": "Wunsch - Wuckert",
+    "location": "East Madeline",
+    "country": "Qatar",
+    "deliveryCategories": [
+      "Bakery",
+      "Pharmacy"
+    ],
+    "deliveryFrequency": "daily",
+    "leadTimeDays": 3,
+    "minOrderValue": 3044,
+    "rating": 4,
+    "contactPerson": "Gail West-Mohr II",
+    "email": "Beth41@gmail.com",
+    "phone": "286-655-9128 x475"
+  },
+  {
+    "id": "SUP0101",
+    "name": "Lowe, Little and Moore",
+    "location": "East Jadenhaven",
+    "country": "Kuwait",
+    "deliveryCategories": [
+      "Dairy"
+    ],
+    "deliveryFrequency": "weekly",
+    "leadTimeDays": 3,
+    "minOrderValue": 1134,
+    "rating": 5,
+    "contactPerson": "Gilberto Ortiz",
+    "email": "Sage_Koelpin@yahoo.com",
+    "phone": "407-618-3490 x7742"
+  },
+  {
+    "id": "SUP0102",
+    "name": "Little and Sons",
+    "location": "Roobfort",
+    "country": "Lithuania",
+    "deliveryCategories": [
+      "Dairy",
+      "Electronics"
+    ],
+    "deliveryFrequency": "daily",
+    "leadTimeDays": 3,
+    "minOrderValue": 1068,
+    "rating": 4.9,
+    "contactPerson": "Caleb Strosin",
+    "email": "Ubaldo77@gmail.com",
+    "phone": "250-243-9253 x4713"
+  },
+  {
+    "id": "SUP0103",
+    "name": "Botsford - Ryan",
+    "location": "Violetberg",
+    "country": "Congo",
+    "deliveryCategories": [
+      "Electronics",
+      "Bakery",
+      "Apparel"
+    ],
+    "deliveryFrequency": "daily",
+    "leadTimeDays": 8,
+    "minOrderValue": 923,
+    "rating": 3.9,
+    "contactPerson": "Brooke Mayert",
+    "email": "Elwin.Nitzsche@yahoo.com",
+    "phone": "1-955-346-5713 x68398"
+  },
+  {
+    "id": "SUP0104",
+    "name": "Connelly - Metz",
+    "location": "North Christiana",
+    "country": "Guam",
+    "deliveryCategories": [
+      "Dairy",
+      "Fresh Produce"
+    ],
+    "deliveryFrequency": "monthly",
+    "leadTimeDays": 11,
+    "minOrderValue": 3444,
+    "rating": 4.8,
+    "contactPerson": "Darlene Schmeler",
+    "email": "Arnulfo_Tillman73@hotmail.com",
+    "phone": "499-549-1676 x3198"
+  },
+  {
+    "id": "SUP0105",
+    "name": "Pfannerstill LLC",
+    "location": "New Alethacester",
+    "country": "Solomon Islands",
+    "deliveryCategories": [
+      "Bakery",
+      "Grocery",
+      "Pharmacy",
+      "Apparel"
+    ],
+    "deliveryFrequency": "monthly",
+    "leadTimeDays": 3,
+    "minOrderValue": 857,
+    "rating": 4.1,
+    "contactPerson": "Mr. Boyd Hauck",
+    "email": "Terrill31@hotmail.com",
+    "phone": "598.743.3248 x88351"
+  },
+  {
+    "id": "SUP0106",
+    "name": "Shanahan Inc",
+    "location": "Lake Dawsonview",
+    "country": "Burkina Faso",
+    "deliveryCategories": [
+      "Bakery"
+    ],
+    "deliveryFrequency": "monthly",
+    "leadTimeDays": 5,
+    "minOrderValue": 3829,
+    "rating": 4.2,
+    "contactPerson": "Gayle O'Conner",
+    "email": "Kitty47@yahoo.com",
+    "phone": "(926) 217-6133 x60061"
+  },
+  {
+    "id": "SUP0107",
+    "name": "Farrell - Zemlak",
+    "location": "Bellflower",
+    "country": "Estonia",
+    "deliveryCategories": [
+      "Dairy"
+    ],
+    "deliveryFrequency": "daily",
+    "leadTimeDays": 10,
+    "minOrderValue": 2032,
+    "rating": 4.6,
+    "contactPerson": "Dwight Haag",
+    "email": "Annetta.Ruecker65@gmail.com",
+    "phone": "998-378-7068 x26986"
+  },
+  {
+    "id": "SUP0108",
+    "name": "Brown and Sons",
+    "location": "Gennaroport",
+    "country": "Curacao",
+    "deliveryCategories": [
+      "Pharmacy"
+    ],
+    "deliveryFrequency": "monthly",
+    "leadTimeDays": 6,
+    "minOrderValue": 2960,
+    "rating": 3.7,
+    "contactPerson": "Gertrude Schmitt-Brown",
+    "email": "Aida91@yahoo.com",
+    "phone": "418.729.9876 x88099"
+  },
+  {
+    "id": "SUP0109",
+    "name": "Simonis - Lemke",
+    "location": "Lake Savion",
+    "country": "Japan",
+    "deliveryCategories": [
+      "Fresh Produce",
+      "Apparel",
+      "Bakery"
+    ],
+    "deliveryFrequency": "daily",
+    "leadTimeDays": 4,
+    "minOrderValue": 3667,
+    "rating": 3.6,
+    "contactPerson": "Andrew Gislason",
+    "email": "Adolph.Koss82@gmail.com",
+    "phone": "(222) 477-5009 x8886"
+  },
+  {
+    "id": "SUP0110",
+    "name": "Yundt, Denesik and Murazik",
+    "location": "New Dawnhaven",
+    "country": "Serbia",
+    "deliveryCategories": [
+      "Electronics",
+      "Pharmacy"
+    ],
+    "deliveryFrequency": "weekly",
+    "leadTimeDays": 1,
+    "minOrderValue": 2431,
+    "rating": 4.4,
+    "contactPerson": "Jaime Steuber",
+    "email": "Mafalda59@yahoo.com",
+    "phone": "270.690.6880 x895"
+  },
+  {
+    "id": "SUP0111",
+    "name": "Keeling, Bode and Halvorson",
+    "location": "Jonesboro",
+    "country": "Kazakhstan",
+    "deliveryCategories": [
+      "Pharmacy"
+    ],
+    "deliveryFrequency": "monthly",
+    "leadTimeDays": 2,
+    "minOrderValue": 3209,
+    "rating": 4,
+    "contactPerson": "Bobby Dach",
+    "email": "Lonnie63@hotmail.com",
+    "phone": "751.223.7496"
+  },
+  {
+    "id": "SUP0112",
+    "name": "Kozey - Roberts",
+    "location": "Long Beach",
+    "country": "El Salvador",
+    "deliveryCategories": [
+      "Fresh Produce",
+      "Meat"
+    ],
+    "deliveryFrequency": "bi-weekly",
+    "leadTimeDays": 6,
+    "minOrderValue": 819,
+    "rating": 4.9,
+    "contactPerson": "Patricia Batz",
+    "email": "Alvina.Connelly46@yahoo.com",
+    "phone": "534.561.4642 x42555"
+  },
+  {
+    "id": "SUP0113",
+    "name": "Beatty Inc",
+    "location": "Arlington Heights",
+    "country": "Sri Lanka",
+    "deliveryCategories": [
+      "Dairy"
+    ],
+    "deliveryFrequency": "daily",
+    "leadTimeDays": 4,
+    "minOrderValue": 2025,
+    "rating": 4.2,
+    "contactPerson": "Gabriel Erdman",
+    "email": "Eldon.Waters81@yahoo.com",
+    "phone": "(468) 253-8558"
+  },
+  {
+    "id": "SUP0114",
+    "name": "Prosacco, Bayer and Zemlak",
+    "location": "Brendenshire",
+    "country": "Eritrea",
+    "deliveryCategories": [
+      "Apparel"
+    ],
+    "deliveryFrequency": "daily",
+    "leadTimeDays": 6,
+    "minOrderValue": 2254,
+    "rating": 4.1,
+    "contactPerson": "Nathaniel Upton",
+    "email": "Destany.Padberg82@hotmail.com",
+    "phone": "998.708.6007 x2800"
+  },
+  {
+    "id": "SUP0115",
+    "name": "O'Reilly and Sons",
+    "location": "Kissimmee",
+    "country": "Northern Mariana Islands",
+    "deliveryCategories": [
+      "Fresh Produce",
+      "Pharmacy",
+      "Dairy"
+    ],
+    "deliveryFrequency": "weekly",
+    "leadTimeDays": 2,
+    "minOrderValue": 1044,
+    "rating": 4.4,
+    "contactPerson": "Carole Tromp",
+    "email": "Arlie41@yahoo.com",
+    "phone": "1-766-485-5056 x1916"
+  },
+  {
+    "id": "SUP0116",
+    "name": "Reilly LLC",
+    "location": "Lake Sterlingstad",
+    "country": "Bahamas",
+    "deliveryCategories": [
+      "Dairy"
+    ],
+    "deliveryFrequency": "monthly",
+    "leadTimeDays": 8,
+    "minOrderValue": 4961,
+    "rating": 3.7,
+    "contactPerson": "David Jones",
+    "email": "Ismael.Boehm@gmail.com",
+    "phone": "918-623-4786"
+  },
+  {
+    "id": "SUP0117",
+    "name": "Pouros - Stark",
+    "location": "Guillermochester",
+    "country": "Barbados",
+    "deliveryCategories": [
+      "Dairy"
+    ],
+    "deliveryFrequency": "weekly",
+    "leadTimeDays": 8,
+    "minOrderValue": 1878,
+    "rating": 4.8,
+    "contactPerson": "Mr. Eduardo Farrell",
+    "email": "Issac43@hotmail.com",
+    "phone": "(485) 233-6073"
+  },
+  {
+    "id": "SUP0118",
+    "name": "Cummerata and Sons",
+    "location": "Conroyton",
+    "country": "Timor-Leste",
+    "deliveryCategories": [
+      "Apparel",
+      "Electronics",
+      "Pharmacy"
+    ],
+    "deliveryFrequency": "monthly",
+    "leadTimeDays": 5,
+    "minOrderValue": 4760,
+    "rating": 3.7,
+    "contactPerson": "Karen Oberbrunner",
+    "email": "Adalberto_Howe40@yahoo.com",
+    "phone": "(416) 865-3825 x9541"
+  },
+  {
+    "id": "SUP0119",
+    "name": "Fay - Barrows",
+    "location": "Lompoc",
+    "country": "Madagascar",
+    "deliveryCategories": [
+      "Bakery",
+      "Grocery",
+      "Fresh Produce"
+    ],
+    "deliveryFrequency": "monthly",
+    "leadTimeDays": 2,
+    "minOrderValue": 2229,
+    "rating": 3.6,
+    "contactPerson": "Dawn Walsh",
+    "email": "Carol_Bailey14@yahoo.com",
+    "phone": "521.981.3933 x484"
+  },
+  {
+    "id": "SUP0120",
+    "name": "Bogisich, Green and Mohr",
+    "location": "Catalina Foothills",
+    "country": "Haiti",
+    "deliveryCategories": [
+      "Apparel",
+      "Bakery",
+      "Meat"
+    ],
+    "deliveryFrequency": "daily",
+    "leadTimeDays": 6,
+    "minOrderValue": 4869,
+    "rating": 4,
+    "contactPerson": "Dave Cremin-Kris",
+    "email": "Kareem_Ruecker83@yahoo.com",
+    "phone": "438.471.1053 x622"
+  }
+]

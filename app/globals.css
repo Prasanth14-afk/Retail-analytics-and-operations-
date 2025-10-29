@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap');
+@import './styles/theme.css';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: 'Inter', system-ui, sans-serif;
+    /* 4K optimization */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+    font-feature-settings: "kern" 1;
+    font-kerning: normal;
+  }
+  
+  .font-mono {
+    font-family: 'IBM Plex Mono', monospace;
+  }
+
+  /* High DPI optimization for 4K displays */
+  @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+    body {
+      -webkit-font-smoothing: subpixel-antialiased;
+    }
+  }
+
+  /* GPU acceleration for smooth animations */
+  * {
+    will-change: auto;
+    transform: translateZ(0);
+    backface-visibility: hidden;
+    perspective: 1000px;
+  }
+
+  /* Smooth scrolling */
+  html {
+    scroll-behavior: smooth;
+  }
+
+  /* Enhanced canvas rendering for charts */
+  canvas {
+    image-rendering: -webkit-optimize-contrast;
+    image-rendering: crisp-edges;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  /* Bright Pro Theme - 4K optimized shadows */
+  .shadow-4k {
+    box-shadow: 0 4px 24px rgba(0, 0, 0, 0.08), 
+                0 2px 12px rgba(0, 0, 0, 0.04),
+                0 1px 4px rgba(0, 0, 0, 0.02);
+  }
+
+  .shadow-soft {
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.06);
+  }
+
+  .shadow-soft-lg {
+    box-shadow: 0 12px 32px rgba(0, 0, 0, 0.08);
+  }
+
+  /* Enhanced backdrop blur */
+  .backdrop-blur-4k {
+    backdrop-filter: blur(20px) saturate(180%);
+    -webkit-backdrop-filter: blur(20px) saturate(180%);
+  }
+
+  /* Smooth transitions */
+  .transition-smooth {
+    transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+
+  .transition-spring {
+    transition: all 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+  }
+
+  /* Bright Pro gradients */
+  .gradient-blue-teal {
+    background: linear-gradient(135deg, #2F7CFF 0%, #10D2C2 100%);
+  }
+
+  .gradient-navy-purple {
+    background: linear-gradient(180deg, #1A237E 0%, #6C5CE7 100%);
+  }
+
+  .gradient-indigo-pink {
+    background: linear-gradient(180deg, #6366F1 0%, #8B5CF6 50%, #EC4899 100%);
+  }
+
+  .gradient-purple-blue {
+    background: linear-gradient(180deg, #6C5CE7 0%, #2F7CFF 100%);
+  }
+
+  .gradient-pink-purple {
+    background: linear-gradient(135deg, #F56FAE 0%, #6C5CE7 100%);
+  }
+
+  .gradient-orange-yellow {
+    background: linear-gradient(135deg, #F58B3A 0%, #F6B93B 100%);
+  }
+
+  .gradient-multi {
+    background: linear-gradient(90deg, #2F7CFF 0%, #10D2C2 50%, #6C5CE7 100%);
+  }
+
+  /* Hover lift effect */
+  .hover-lift {
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+
+  .hover-lift:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 12px 32px rgba(0, 0, 0, 0.1);
+  }
+
+  /* Responsive content width */
+  .content-container {
+    width: 100%;
+    max-width: 1600px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 2.5rem;
+    padding-right: 2.5rem;
+  }
+
+  @media (max-width: 1536px) {
+    .content-container {
+      padding-left: 2rem;
+      padding-right: 2rem;
+    }
+  }
+
+  @media (max-width: 1280px) {
+    .content-container {
+      padding-left: 1.5rem;
+      padding-right: 1.5rem;
+    }
+  }
+}

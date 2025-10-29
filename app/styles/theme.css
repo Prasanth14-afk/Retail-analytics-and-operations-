@@ -1,0 +1,56 @@
+:root {
+  /* Bright Pro Theme - Primary Colors */
+  --clr-blue: #2F7CFF;
+  --clr-teal: #10D2C2;
+  --clr-purple: #6C5CE7;
+  --clr-pink: #F56FAE;
+  --clr-orange: #F58B3A;
+  --clr-green: #2ECC71;
+  --clr-yellow: #F6B93B;
+  
+  /* Surface Colors */
+  --clr-canvas: #F6F7FB;
+  --clr-surface: #FFFFFF;
+  
+  /* Text Colors */
+  --clr-text: #0B1020;
+  --clr-mute: #7A8596;
+  --clr-border: #E5E8EE;
+  
+  /* Legacy colors (backward compatibility) */
+  --clr-black: #0B1020;
+  --clr-copper: #B87333;
+  --clr-navy: #2C5F8D;
+  --clr-tan: #D2B48C;
+  --clr-blush: #E6B7A9;
+  --clr-vanilla: #F8E5C2;
+  --clr-greenish: #7BB661;
+  --clr-mint: #A8E6CF;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html,
+body {
+  max-width: 100vw;
+  overflow-x: hidden;
+}
+
+body {
+  color: var(--clr-text);
+  background: var(--clr-canvas);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}

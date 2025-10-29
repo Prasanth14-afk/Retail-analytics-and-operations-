@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "RET00001",
+    "saleId": "SL000741",
+    "returnDate": "2025-10-21",
+    "reason": "Changed mind",
+    "refundAmount": 3138.8121,
+    "condition": "unopened"
+  },
+  {
+    "id": "RET00002",
+    "saleId": "SL000387",
+    "returnDate": "2025-10-13",
+    "reason": "Wrong item",
+    "refundAmount": 468.972,
+    "condition": "damaged"
+  },
+  {
+    "id": "RET00003",
+    "saleId": "SL000187",
+    "returnDate": "2025-10-12",
+    "reason": "Wrong item",
+    "refundAmount": 9.22,
+    "condition": "damaged"
+  },
+  {
+    "id": "RET00004",
+    "saleId": "SL000727",
+    "returnDate": "2025-10-04",
+    "reason": "Wrong item",
+    "refundAmount": 1307.7215999999999,
+    "condition": "unopened"
+  },
+  {
+    "id": "RET00005",
+    "saleId": "SL001988",
+    "returnDate": "2025-10-12",
+    "reason": "Expired",
+    "refundAmount": 2016.9792,
+    "condition": "defective"
+  },
+  {
+    "id": "RET00006",
+    "saleId": "SL000375",
+    "returnDate": "2025-10-15",
+    "reason": "Not as described",
+    "refundAmount": 1160.952,
+    "condition": "defective"
+  },
+  {
+    "id": "RET00007",
+    "saleId": "SL001101",
+    "returnDate": "2025-10-15",
+    "reason": "Changed mind",
+    "refundAmount": 1060.1536,
+    "condition": "defective"
+  },
+  {
+    "id": "RET00008",
+    "saleId": "SL001395",
+    "returnDate": "2025-10-02",
+    "reason": "Wrong item",
+    "refundAmount": 3138.4276,
+    "condition": "expired"
+  },
+  {
+    "id": "RET00009",
+    "saleId": "SL001830",
+    "returnDate": "2025-10-07",
+    "reason": "Defective",
+    "refundAmount": 3570.129,
+    "condition": "defective"
+  },
+  {
+    "id": "RET00010",
+    "saleId": "SL001792",
+    "returnDate": "2025-10-22",
+    "reason": "Defective",
+    "refundAmount": 1302.6339,
+    "condition": "unopened"
+  },
+  {
+    "id": "RET00011",
+    "saleId": "SL001761",
+    "returnDate": "2025-10-08",
+    "reason": "Not as described",
+    "refundAmount": 2786.4044,
+    "condition": "defective"
+  },
+  {
+    "id": "RET00012",
+    "saleId": "SL000646",
+    "returnDate": "2025-10-16",
+    "reason": "Wrong item",
+    "refundAmount": 1528.2887999999998,
+    "condition": "defective"
+  },
+  {
+    "id": "RET00013",
+    "saleId": "SL000645",
+    "returnDate": "2025-10-18",
+    "reason": "Wrong item",
+    "refundAmount": 1778.436,
+    "condition": "damaged"
+  },
+  {
+    "id": "RET00014",
+    "saleId": "SL001685",
+    "returnDate": "2025-09-30",
+    "reason": "Defective",
+    "refundAmount": 2547.7188,
+    "condition": "defective"
+  },
+  {
+    "id": "RET00015",
+    "saleId": "SL001489",
+    "returnDate": "2025-10-15",
+    "reason": "Not as described",
+    "refundAmount": 4182.395,
+    "condition": "damaged"
+  },
+  {
+    "id": "RET00016",
+    "saleId": "SL000324",
+    "returnDate": "2025-10-04",
+    "reason": "Changed mind",
+    "refundAmount": 2291.8126,
+    "condition": "expired"
+  },
+  {
+    "id": "RET00017",
+    "saleId": "SL001250",
+    "returnDate": "2025-10-13",
+    "reason": "Expired",
+    "refundAmount": 214.63920000000002,
+    "condition": "unopened"
+  },
+  {
+    "id": "RET00018",
+    "saleId": "SL000100",
+    "returnDate": "2025-10-14",
+    "reason": "Defective",
+    "refundAmount": 525.92,
+    "condition": "unopened"
+  },
+  {
+    "id": "RET00019",
+    "saleId": "SL001609",
+    "returnDate": "2025-10-03",
+    "reason": "Defective",
+    "refundAmount": 381.32160000000005,
+    "condition": "expired"
+  },
+  {
+    "id": "RET00020",
+    "saleId": "SL000736",
+    "returnDate": "2025-10-20",
+    "reason": "Not as described",
+    "refundAmount": 1932.5284000000001,
+    "condition": "expired"
+  },
+  {
+    "id": "RET00021",
+    "saleId": "SL001585",
+    "returnDate": "2025-10-14",
+    "reason": "Defective",
+    "refundAmount": 783.9300000000001,
+    "condition": "defective"
+  },
+  {
+    "id": "RET00022",
+    "saleId": "SL000362",
+    "returnDate": "2025-10-08",
+    "reason": "Changed mind",
+    "refundAmount": 795.9744000000001,
+    "condition": "unopened"
+  },
+  {
+    "id": "RET00023",
+    "saleId": "SL001841",
+    "returnDate": "2025-10-04",
+    "reason": "Expired",
+    "refundAmount": 1238.2032000000002,
+    "condition": "unopened"
+  },
+  {
+    "id": "RET00024",
+    "saleId": "SL000402",
+    "returnDate": "2025-10-19",
+    "reason": "Defective",
+    "refundAmount": 168.29999999999998,
+    "condition": "unopened"
+  },
+  {
+    "id": "RET00025",
+    "saleId": "SL001036",
+    "returnDate": "2025-10-09",
+    "reason": "Changed mind",
+    "refundAmount": 6217.9208,
+    "condition": "defective"
+  },
+  {
+    "id": "RET00026",
+    "saleId": "SL001595",
+    "returnDate": "2025-10-17",
+    "reason": "Expired",
+    "refundAmount": 297.3883,
+    "condition": "unopened"
+  },
+  {
+    "id": "RET00027",
+    "saleId": "SL001599",
+    "returnDate": "2025-10-03",
+    "reason": "Expired",
+    "refundAmount": 5782.1759999999995,
+    "condition": "unopened"
+  },
+  {
+    "id": "RET00028",
+    "saleId": "SL000337",
+    "returnDate": "2025-10-09",
+    "reason": "Changed mind",
+    "refundAmount": 534.9564,
+    "condition": "unopened"
+  },
+  {
+    "id": "RET00029",
+    "saleId": "SL000728",
+    "returnDate": "2025-10-17",
+    "reason": "Wrong item",
+    "refundAmount": 1762.5215999999998,
+    "condition": "defective"
+  },
+  {
+    "id": "RET00030",
+    "saleId": "SL001314",
+    "returnDate": "2025-10-17",
+    "reason": "Changed mind",
+    "refundAmount": 6131.1936,
+    "condition": "unopened"
+  },
+  {
+    "id": "RET00031",
+    "saleId": "SL000333",
+    "returnDate": "2025-10-11",
+    "reason": "Not as described",
+    "refundAmount": 2297.1924000000004,
+    "condition": "expired"
+  },
+  {
+    "id": "RET00032",
+    "saleId": "SL001378",
+    "returnDate": "2025-10-06",
+    "reason": "Defective",
+    "refundAmount": 1787.3336,
+    "condition": "expired"
+  },
+  {
+    "id": "RET00033",
+    "saleId": "SL000119",
+    "returnDate": "2025-10-17",
+    "reason": "Expired",
+    "refundAmount": 2196.4818999999998,
+    "condition": "damaged"
+  },
+  {
+    "id": "RET00034",
+    "saleId": "SL001336",
+    "returnDate": "2025-09-30",
+    "reason": "Wrong item",
+    "refundAmount": 491.92109999999997,
+    "condition": "defective"
+  },
+  {
+    "id": "RET00035",
+    "saleId": "SL000715",
+    "returnDate": "2025-10-04",
+    "reason": "Wrong item",
+    "refundAmount": 1451.1086,
+    "condition": "damaged"
+  },
+  {
+    "id": "RET00036",
+    "saleId": "SL000305",
+    "returnDate": "2025-10-03",
+    "reason": "Not as described",
+    "refundAmount": 1091.2374,
+    "condition": "defective"
+  },
+  {
+    "id": "RET00037",
+    "saleId": "SL001949",
+    "returnDate": "2025-09-30",
+    "reason": "Changed mind",
+    "refundAmount": 2399.7239999999997,
+    "condition": "damaged"
+  },
+  {
+    "id": "RET00038",
+    "saleId": "SL001457",
+    "returnDate": "2025-10-24",
+    "reason": "Wrong item",
+    "refundAmount": 2149.0196,
+    "condition": "defective"
+  },
+  {
+    "id": "RET00039",
+    "saleId": "SL000320",
+    "returnDate": "2025-10-06",
+    "reason": "Expired",
+    "refundAmount": 323.59680000000003,
+    "condition": "expired"
+  },
+  {
+    "id": "RET00040",
+    "saleId": "SL001365",
+    "returnDate": "2025-10-26",
+    "reason": "Changed mind",
+    "refundAmount": 67.792,
+    "condition": "defective"
+  },
+  {
+    "id": "RET00041",
+    "saleId": "SL000530",
+    "returnDate": "2025-10-15",
+    "reason": "Wrong item",
+    "refundAmount": 149.4948,
+    "condition": "unopened"
+  },
+  {
+    "id": "RET00042",
+    "saleId": "SL001228",
+    "returnDate": "2025-10-27",
+    "reason": "Defective",
+    "refundAmount": 969.7099999999999,
+    "condition": "damaged"
+  },
+  {
+    "id": "RET00043",
+    "saleId": "SL000410",
+    "returnDate": "2025-10-11",
+    "reason": "Wrong item",
+    "refundAmount": 1129.0266,
+    "condition": "damaged"
+  },
+  {
+    "id": "RET00044",
+    "saleId": "SL000708",
+    "returnDate": "2025-10-17",
+    "reason": "Wrong item",
+    "refundAmount": 2550.5399999999995,
+    "condition": "unopened"
+  },
+  {
+    "id": "RET00045",
+    "saleId": "SL000384",
+    "returnDate": "2025-10-26",
+    "reason": "Defective",
+    "refundAmount": 4913.3202,
+    "condition": "damaged"
+  },
+  {
+    "id": "RET00046",
+    "saleId": "SL001357",
+    "returnDate": "2025-10-21",
+    "reason": "Not as described",
+    "refundAmount": 543.2625,
+    "condition": "defective"
+  },
+  {
+    "id": "RET00047",
+    "saleId": "SL001495",
+    "returnDate": "2025-10-09",
+    "reason": "Changed mind",
+    "refundAmount": 597.4889,
+    "condition": "defective"
+  },
+  {
+    "id": "RET00048",
+    "saleId": "SL001376",
+    "returnDate": "2025-10-10",
+    "reason": "Changed mind",
+    "refundAmount": 1559.7984,
+    "condition": "defective"
+  },
+  {
+    "id": "RET00049",
+    "saleId": "SL001169",
+    "returnDate": "2025-10-02",
+    "reason": "Defective",
+    "refundAmount": 473.5115,
+    "condition": "expired"
+  },
+  {
+    "id": "RET00050",
+    "saleId": "SL001524",
+    "returnDate": "2025-09-30",
+    "reason": "Defective",
+    "refundAmount": 3088.2852000000003,
+    "condition": "damaged"
+  },
+  {
+    "id": "RET00051",
+    "saleId": "SL001619",
+    "returnDate": "2025-10-25",
+    "reason": "Not as described",
+    "refundAmount": 3258.6000000000004,
+    "condition": "unopened"
+  },
+  {
+    "id": "RET00052",
+    "saleId": "SL000376",
+    "returnDate": "2025-10-10",
+    "reason": "Expired",
+    "refundAmount": 1843.2863999999997,
+    "condition": "unopened"
+  },
+  {
+    "id": "RET00053",
+    "saleId": "SL001441",
+    "returnDate": "2025-10-28",
+    "reason": "Wrong item",
+    "refundAmount": 1039.5303999999999,
+    "condition": "defective"
+  },
+  {
+    "id": "RET00054",
+    "saleId": "SL000891",
+    "returnDate": "2025-10-03",
+    "reason": "Expired",
+    "refundAmount": 315.7056,
+    "condition": "unopened"
+  },
+  {
+    "id": "RET00055",
+    "saleId": "SL000877",
+    "returnDate": "2025-10-16",
+    "reason": "Defective",
+    "refundAmount": 1973.5696,
+    "condition": "damaged"
+  },
+  {
+    "id": "RET00056",
+    "saleId": "SL001720",
+    "returnDate": "2025-10-07",
+    "reason": "Wrong item",
+    "refundAmount": 530.3466,
+    "condition": "damaged"
+  },
+  {
+    "id": "RET00057",
+    "saleId": "SL000506",
+    "returnDate": "2025-10-07",
+    "reason": "Changed mind",
+    "refundAmount": 1844.4938,
+    "condition": "unopened"
+  },
+  {
+    "id": "RET00058",
+    "saleId": "SL001676",
+    "returnDate": "2025-10-26",
+    "reason": "Expired",
+    "refundAmount": 3051.1936,
+    "condition": "unopened"
+  },
+  {
+    "id": "RET00059",
+    "saleId": "SL000166",
+    "returnDate": "2025-10-22",
+    "reason": "Changed mind",
+    "refundAmount": 94.914,
+    "condition": "defective"
+  },
+  {
+    "id": "RET00060",
+    "saleId": "SL001716",
+    "returnDate": "2025-10-09",
+    "reason": "Expired",
+    "refundAmount": 2689.0464,
+    "condition": "damaged"
+  },
+  {
+    "id": "RET00061",
+    "saleId": "SL001493",
+    "returnDate": "2025-10-27",
+    "reason": "Not as described",
+    "refundAmount": 2413.4352,
+    "condition": "defective"
+  },
+  {
+    "id": "RET00062",
+    "saleId": "SL001469",
+    "returnDate": "2025-10-07",
+    "reason": "Changed mind",
+    "refundAmount": 1644.7702000000002,
+    "condition": "damaged"
+  },
+  {
+    "id": "RET00063",
+    "saleId": "SL000969",
+    "returnDate": "2025-10-12",
+    "reason": "Not as described",
+    "refundAmount": 507.276,
+    "condition": "unopened"
+  },
+  {
+    "id": "RET00064",
+    "saleId": "SL001869",
+    "returnDate": "2025-10-08",
+    "reason": "Changed mind",
+    "refundAmount": 3591.3264,
+    "condition": "expired"
+  },
+  {
+    "id": "RET00065",
+    "saleId": "SL001756",
+    "returnDate": "2025-10-12",
+    "reason": "Defective",
+    "refundAmount": 726.9264000000001,
+    "condition": "unopened"
+  },
+  {
+    "id": "RET00066",
+    "saleId": "SL001668",
+    "returnDate": "2025-10-09",
+    "reason": "Not as described",
+    "refundAmount": 5690.5772,
+    "condition": "expired"
+  },
+  {
+    "id": "RET00067",
+    "saleId": "SL000911",
+    "returnDate": "2025-10-10",
+    "reason": "Expired",
+    "refundAmount": 3603.4516000000003,
+    "condition": "damaged"
+  },
+  {
+    "id": "RET00068",
+    "saleId": "SL001815",
+    "returnDate": "2025-10-21",
+    "reason": "Defective",
+    "refundAmount": 1634.499,
+    "condition": "defective"
+  },
+  {
+    "id": "RET00069",
+    "saleId": "SL001615",
+    "returnDate": "2025-10-25",
+    "reason": "Defective",
+    "refundAmount": 4126.694,
+    "condition": "defective"
+  },
+  {
+    "id": "RET00070",
+    "saleId": "SL001126",
+    "returnDate": "2025-10-05",
+    "reason": "Defective",
+    "refundAmount": 1187.8512,
+    "condition": "defective"
+  },
+  {
+    "id": "RET00071",
+    "saleId": "SL001686",
+    "returnDate": "2025-10-15",
+    "reason": "Wrong item",
+    "refundAmount": 1694.0196,
+    "condition": "damaged"
+  },
+  {
+    "id": "RET00072",
+    "saleId": "SL001611",
+    "returnDate": "2025-10-01",
+    "reason": "Expired",
+    "refundAmount": 1169.7172,
+    "condition": "expired"
+  },
+  {
+    "id": "RET00073",
+    "saleId": "SL000152",
+    "returnDate": "2025-10-27",
+    "reason": "Expired",
+    "refundAmount": 1939.9019999999998,
+    "condition": "damaged"
+  },
+  {
+    "id": "RET00074",
+    "saleId": "SL001038",
+    "returnDate": "2025-10-19",
+    "reason": "Not as described",
+    "refundAmount": 2725.5417,
+    "condition": "unopened"
+  },
+  {
+    "id": "RET00075",
+    "saleId": "SL000047",
+    "returnDate": "2025-10-14",
+    "reason": "Expired",
+    "refundAmount": 1464.064,
+    "condition": "damaged"
+  },
+  {
+    "id": "RET00076",
+    "saleId": "SL001811",
+    "returnDate": "2025-10-21",
+    "reason": "Changed mind",
+    "refundAmount": 842.095,
+    "condition": "damaged"
+  },
+  {
+    "id": "RET00077",
+    "saleId": "SL001043",
+    "returnDate": "2025-10-22",
+    "reason": "Wrong item",
+    "refundAmount": 918.8908,
+    "condition": "expired"
+  },
+  {
+    "id": "RET00078",
+    "saleId": "SL001742",
+    "returnDate": "2025-10-05",
+    "reason": "Changed mind",
+    "refundAmount": 5496.96,
+    "condition": "defective"
+  },
+  {
+    "id": "RET00079",
+    "saleId": "SL000302",
+    "returnDate": "2025-10-21",
+    "reason": "Not as described",
+    "refundAmount": 120.60929999999999,
+    "condition": "damaged"
+  },
+  {
+    "id": "RET00080",
+    "saleId": "SL001042",
+    "returnDate": "2025-10-28",
+    "reason": "Defective",
+    "refundAmount": 2488.992,
+    "condition": "damaged"
+  },
+  {
+    "id": "RET00081",
+    "saleId": "SL001664",
+    "returnDate": "2025-10-01",
+    "reason": "Not as described",
+    "refundAmount": 2122.134,
+    "condition": "defective"
+  },
+  {
+    "id": "RET00082",
+    "saleId": "SL001346",
+    "returnDate": "2025-10-14",
+    "reason": "Wrong item",
+    "refundAmount": 459.42,
+    "condition": "unopened"
+  },
+  {
+    "id": "RET00083",
+    "saleId": "SL001869",
+    "returnDate": "2025-10-10",
+    "reason": "Expired",
+    "refundAmount": 2292.336,
+    "condition": "defective"
+  },
+  {
+    "id": "RET00084",
+    "saleId": "SL001668",
+    "returnDate": "2025-09-29",
+    "reason": "Defective",
+    "refundAmount": 5566.869,
+    "condition": "damaged"
+  },
+  {
+    "id": "RET00085",
+    "saleId": "SL000752",
+    "returnDate": "2025-10-19",
+    "reason": "Not as described",
+    "refundAmount": 1207.5898,
+    "condition": "unopened"
+  },
+  {
+    "id": "RET00086",
+    "saleId": "SL000999",
+    "returnDate": "2025-10-01",
+    "reason": "Expired",
+    "refundAmount": 4117.8096,
+    "condition": "expired"
+  },
+  {
+    "id": "RET00087",
+    "saleId": "SL001533",
+    "returnDate": "2025-10-19",
+    "reason": "Defective",
+    "refundAmount": 943.8728,
+    "condition": "expired"
+  },
+  {
+    "id": "RET00088",
+    "saleId": "SL001453",
+    "returnDate": "2025-10-10",
+    "reason": "Defective",
+    "refundAmount": 2164.6169999999997,
+    "condition": "defective"
+  },
+  {
+    "id": "RET00089",
+    "saleId": "SL000836",
+    "returnDate": "2025-10-04",
+    "reason": "Changed mind",
+    "refundAmount": 2541.2249,
+    "condition": "damaged"
+  },
+  {
+    "id": "RET00090",
+    "saleId": "SL000991",
+    "returnDate": "2025-10-17",
+    "reason": "Expired",
+    "refundAmount": 857.85,
+    "condition": "expired"
+  },
+  {
+    "id": "RET00091",
+    "saleId": "SL000862",
+    "returnDate": "2025-10-25",
+    "reason": "Defective",
+    "refundAmount": 2274.5505,
+    "condition": "expired"
+  },
+  {
+    "id": "RET00092",
+    "saleId": "SL001791",
+    "returnDate": "2025-10-28",
+    "reason": "Expired",
+    "refundAmount": 1312.8174000000001,
+    "condition": "damaged"
+  },
+  {
+    "id": "RET00093",
+    "saleId": "SL001655",
+    "returnDate": "2025-10-26",
+    "reason": "Wrong item",
+    "refundAmount": 527.5125,
+    "condition": "unopened"
+  },
+  {
+    "id": "RET00094",
+    "saleId": "SL001164",
+    "returnDate": "2025-10-24",
+    "reason": "Defective",
+    "refundAmount": 2335.48,
+    "condition": "expired"
+  },
+  {
+    "id": "RET00095",
+    "saleId": "SL001102",
+    "returnDate": "2025-10-19",
+    "reason": "Defective",
+    "refundAmount": 620.6220000000001,
+    "condition": "unopened"
+  },
+  {
+    "id": "RET00096",
+    "saleId": "SL000724",
+    "returnDate": "2025-10-04",
+    "reason": "Defective",
+    "refundAmount": 2126.08,
+    "condition": "damaged"
+  },
+  {
+    "id": "RET00097",
+    "saleId": "SL000266",
+    "returnDate": "2025-10-20",
+    "reason": "Expired",
+    "refundAmount": 196.46040000000002,
+    "condition": "unopened"
+  },
+  {
+    "id": "RET00098",
+    "saleId": "SL000398",
+    "returnDate": "2025-10-08",
+    "reason": "Not as described",
+    "refundAmount": 1203.982,
+    "condition": "defective"
+  },
+  {
+    "id": "RET00099",
+    "saleId": "SL001235",
+    "returnDate": "2025-10-26",
+    "reason": "Wrong item",
+    "refundAmount": 568.89,
+    "condition": "defective"
+  },
+  {
+    "id": "RET00100",
+    "saleId": "SL000216",
+    "returnDate": "2025-10-09",
+    "reason": "Changed mind",
+    "refundAmount": 358.59780000000006,
+    "condition": "defective"
+  },
+  {
+    "id": "RET00101",
+    "saleId": "SL001223",
+    "returnDate": "2025-10-01",
+    "reason": "Wrong item",
+    "refundAmount": 566.7364,
+    "condition": "expired"
+  },
+  {
+    "id": "RET00102",
+    "saleId": "SL000223",
+    "returnDate": "2025-10-22",
+    "reason": "Not as described",
+    "refundAmount": 1643.3328,
+    "condition": "expired"
+  },
+  {
+    "id": "RET00103",
+    "saleId": "SL001710",
+    "returnDate": "2025-10-02",
+    "reason": "Wrong item",
+    "refundAmount": 5850.125,
+    "condition": "expired"
+  },
+  {
+    "id": "RET00104",
+    "saleId": "SL000110",
+    "returnDate": "2025-09-30",
+    "reason": "Wrong item",
+    "refundAmount": 3775.9413999999997,
+    "condition": "unopened"
+  },
+  {
+    "id": "RET00105",
+    "saleId": "SL000602",
+    "returnDate": "2025-10-06",
+    "reason": "Not as described",
+    "refundAmount": 105.80799999999999,
+    "condition": "expired"
+  },
+  {
+    "id": "RET00106",
+    "saleId": "SL001451",
+    "returnDate": "2025-10-21",
+    "reason": "Defective",
+    "refundAmount": 4375.851000000001,
+    "condition": "unopened"
+  },
+  {
+    "id": "RET00107",
+    "saleId": "SL001562",
+    "returnDate": "2025-10-16",
+    "reason": "Defective",
+    "refundAmount": 464.62,
+    "condition": "damaged"
+  },
+  {
+    "id": "RET00108",
+    "saleId": "SL000039",
+    "returnDate": "2025-10-10",
+    "reason": "Expired",
+    "refundAmount": 3869.9407999999994,
+    "condition": "defective"
+  },
+  {
+    "id": "RET00109",
+    "saleId": "SL000169",
+    "returnDate": "2025-10-26",
+    "reason": "Defective",
+    "refundAmount": 625.9176,
+    "condition": "unopened"
+  },
+  {
+    "id": "RET00110",
+    "saleId": "SL001402",
+    "returnDate": "2025-10-18",
+    "reason": "Not as described",
+    "refundAmount": 714.9054,
+    "condition": "damaged"
+  },
+  {
+    "id": "RET00111",
+    "saleId": "SL001020",
+    "returnDate": "2025-10-05",
+    "reason": "Changed mind",
+    "refundAmount": 134.03529999999998,
+    "condition": "unopened"
+  },
+  {
+    "id": "RET00112",
+    "saleId": "SL001268",
+    "returnDate": "2025-10-20",
+    "reason": "Not as described",
+    "refundAmount": 2614.6242,
+    "condition": "damaged"
+  },
+  {
+    "id": "RET00113",
+    "saleId": "SL001755",
+    "returnDate": "2025-10-11",
+    "reason": "Changed mind",
+    "refundAmount": 307.7328,
+    "condition": "unopened"
+  },
+  {
+    "id": "RET00114",
+    "saleId": "SL001829",
+    "returnDate": "2025-10-04",
+    "reason": "Expired",
+    "refundAmount": 3172.7168,
+    "condition": "damaged"
+  },
+  {
+    "id": "RET00115",
+    "saleId": "SL001418",
+    "returnDate": "2025-10-15",
+    "reason": "Not as described",
+    "refundAmount": 1907.829,
+    "condition": "unopened"
+  },
+  {
+    "id": "RET00116",
+    "saleId": "SL000217",
+    "returnDate": "2025-10-01",
+    "reason": "Changed mind",
+    "refundAmount": 547.365,
+    "condition": "expired"
+  },
+  {
+    "id": "RET00117",
+    "saleId": "SL000424",
+    "returnDate": "2025-10-12",
+    "reason": "Not as described",
+    "refundAmount": 939.1824,
+    "condition": "defective"
+  },
+  {
+    "id": "RET00118",
+    "saleId": "SL001908",
+    "returnDate": "2025-10-11",
+    "reason": "Expired",
+    "refundAmount": 1293.152,
+    "condition": "damaged"
+  },
+  {
+    "id": "RET00119",
+    "saleId": "SL000211",
+    "returnDate": "2025-10-21",
+    "reason": "Not as described",
+    "refundAmount": 905.5200000000001,
+    "condition": "expired"
+  },
+  {
+    "id": "RET00120",
+    "saleId": "SL001728",
+    "returnDate": "2025-10-24",
+    "reason": "Expired",
+    "refundAmount": 2140.9199999999996,
+    "condition": "unopened"
+  },
+  {
+    "id": "RET00121",
+    "saleId": "SL000256",
+    "returnDate": "2025-10-26",
+    "reason": "Not as described",
+    "refundAmount": 2273.88,
+    "condition": "expired"
+  },
+  {
+    "id": "RET00122",
+    "saleId": "SL000735",
+    "returnDate": "2025-10-26",
+    "reason": "Defective",
+    "refundAmount": 992.8499999999999,
+    "condition": "expired"
+  },
+  {
+    "id": "RET00123",
+    "saleId": "SL000928",
+    "returnDate": "2025-10-22",
+    "reason": "Not as described",
+    "refundAmount": 930.5544,
+    "condition": "expired"
+  },
+  {
+    "id": "RET00124",
+    "saleId": "SL000859",
+    "returnDate": "2025-10-07",
+    "reason": "Expired",
+    "refundAmount": 3076.6855,
+    "condition": "damaged"
+  },
+  {
+    "id": "RET00125",
+    "saleId": "SL000905",
+    "returnDate": "2025-10-25",
+    "reason": "Changed mind",
+    "refundAmount": 3442.0175999999997,
+    "condition": "damaged"
+  },
+  {
+    "id": "RET00126",
+    "saleId": "SL000520",
+    "returnDate": "2025-10-09",
+    "reason": "Not as described",
+    "refundAmount": 795.1275,
+    "condition": "damaged"
+  },
+  {
+    "id": "RET00127",
+    "saleId": "SL001581",
+    "returnDate": "2025-10-18",
+    "reason": "Defective",
+    "refundAmount": 1559.2962000000002,
+    "condition": "unopened"
+  },
+  {
+    "id": "RET00128",
+    "saleId": "SL000229",
+    "returnDate": "2025-10-27",
+    "reason": "Changed mind",
+    "refundAmount": 7265.831999999999,
+    "condition": "damaged"
+  },
+  {
+    "id": "RET00129",
+    "saleId": "SL001515",
+    "returnDate": "2025-10-10",
+    "reason": "Not as described",
+    "refundAmount": 1006.8760000000001,
+    "condition": "expired"
+  },
+  {
+    "id": "RET00130",
+    "saleId": "SL001673",
+    "returnDate": "2025-10-01",
+    "reason": "Wrong item",
+    "refundAmount": 3092.8716,
+    "condition": "expired"
+  },
+  {
+    "id": "RET00131",
+    "saleId": "SL000487",
+    "returnDate": "2025-10-05",
+    "reason": "Defective",
+    "refundAmount": 833.2056,
+    "condition": "damaged"
+  },
+  {
+    "id": "RET00132",
+    "saleId": "SL001700",
+    "returnDate": "2025-10-03",
+    "reason": "Not as described",
+    "refundAmount": 3572.4983999999995,
+    "condition": "damaged"
+  },
+  {
+    "id": "RET00133",
+    "saleId": "SL001187",
+    "returnDate": "2025-10-05",
+    "reason": "Not as described",
+    "refundAmount": 700.2108,
+    "condition": "unopened"
+  },
+  {
+    "id": "RET00134",
+    "saleId": "SL000601",
+    "returnDate": "2025-10-08",
+    "reason": "Defective",
+    "refundAmount": 5776.109600000001,
+    "condition": "defective"
+  },
+  {
+    "id": "RET00135",
+    "saleId": "SL000022",
+    "returnDate": "2025-10-05",
+    "reason": "Not as described",
+    "refundAmount": 1577.9175999999998,
+    "condition": "damaged"
+  },
+  {
+    "id": "RET00136",
+    "saleId": "SL001348",
+    "returnDate": "2025-10-03",
+    "reason": "Expired",
+    "refundAmount": 182.172,
+    "condition": "unopened"
+  },
+  {
+    "id": "RET00137",
+    "saleId": "SL001615",
+    "returnDate": "2025-10-03",
+    "reason": "Defective",
+    "refundAmount": 2941.3670000000006,
+    "condition": "damaged"
+  },
+  {
+    "id": "RET00138",
+    "saleId": "SL001789",
+    "returnDate": "2025-10-21",
+    "reason": "Not as described",
+    "refundAmount": 1320.0048,
+    "condition": "expired"
+  },
+  {
+    "id": "RET00139",
+    "saleId": "SL000998",
+    "returnDate": "2025-10-04",
+    "reason": "Not as described",
+    "refundAmount": 261.282,
+    "condition": "damaged"
+  },
+  {
+    "id": "RET00140",
+    "saleId": "SL000221",
+    "returnDate": "2025-09-29",
+    "reason": "Expired",
+    "refundAmount": 4901.450400000001,
+    "condition": "damaged"
+  },
+  {
+    "id": "RET00141",
+    "saleId": "SL001444",
+    "returnDate": "2025-10-03",
+    "reason": "Defective",
+    "refundAmount": 3722.8122,
+    "condition": "unopened"
+  },
+  {
+    "id": "RET00142",
+    "saleId": "SL000058",
+    "returnDate": "2025-10-18",
+    "reason": "Defective",
+    "refundAmount": 1438.9451999999999,
+    "condition": "damaged"
+  },
+  {
+    "id": "RET00143",
+    "saleId": "SL001065",
+    "returnDate": "2025-10-25",
+    "reason": "Changed mind",
+    "refundAmount": 676.72,
+    "condition": "unopened"
+  },
+  {
+    "id": "RET00144",
+    "saleId": "SL000839",
+    "returnDate": "2025-10-03",
+    "reason": "Wrong item",
+    "refundAmount": 859.7688,
+    "condition": "expired"
+  },
+  {
+    "id": "RET00145",
+    "saleId": "SL001972",
+    "returnDate": "2025-10-21",
+    "reason": "Changed mind",
+    "refundAmount": 423.81319999999994,
+    "condition": "expired"
+  },
+  {
+    "id": "RET00146",
+    "saleId": "SL001460",
+    "returnDate": "2025-10-16",
+    "reason": "Expired",
+    "refundAmount": 553.5935999999999,
+    "condition": "unopened"
+  },
+  {
+    "id": "RET00147",
+    "saleId": "SL000854",
+    "returnDate": "2025-10-10",
+    "reason": "Not as described",
+    "refundAmount": 4218.508000000001,
+    "condition": "unopened"
+  },
+  {
+    "id": "RET00148",
+    "saleId": "SL001298",
+    "returnDate": "2025-10-10",
+    "reason": "Expired",
+    "refundAmount": 1173.7648,
+    "condition": "expired"
+  },
+  {
+    "id": "RET00149",
+    "saleId": "SL001199",
+    "returnDate": "2025-10-01",
+    "reason": "Changed mind",
+    "refundAmount": 7373.871999999999,
+    "condition": "expired"
+  },
+  {
+    "id": "RET00150",
+    "saleId": "SL001105",
+    "returnDate": "2025-10-04",
+    "reason": "Defective",
+    "refundAmount": 974.4624,
+    "condition": "defective"
+  }
+]

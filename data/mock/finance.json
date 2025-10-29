@@ -1,0 +1,902 @@
+[
+  {
+    "id": "FIN0001",
+    "date": "2025-10-11",
+    "revenue": 203344.11,
+    "cogs": 101672.05,
+    "operatingExpenses": 30501.62,
+    "profit": 71170.44,
+    "margin": 35
+  },
+  {
+    "id": "FIN0002",
+    "date": "2025-10-15",
+    "revenue": 446920.32,
+    "cogs": 286029,
+    "operatingExpenses": 84914.86,
+    "profit": 75976.45,
+    "margin": 17
+  },
+  {
+    "id": "FIN0003",
+    "date": "2025-09-23",
+    "revenue": 413015.07,
+    "cogs": 214767.84,
+    "operatingExpenses": 94993.47,
+    "profit": 103253.77,
+    "margin": 25
+  },
+  {
+    "id": "FIN0004",
+    "date": "2025-09-26",
+    "revenue": 117426.68,
+    "cogs": 59887.61,
+    "operatingExpenses": 28182.4,
+    "profit": 29356.67,
+    "margin": 25
+  },
+  {
+    "id": "FIN0005",
+    "date": "2025-10-27",
+    "revenue": 215659.12,
+    "cogs": 150961.38,
+    "operatingExpenses": 51758.19,
+    "profit": 12939.55,
+    "margin": 6
+  },
+  {
+    "id": "FIN0006",
+    "date": "2025-07-21",
+    "revenue": 296868.77,
+    "cogs": 198902.08,
+    "operatingExpenses": 62342.44,
+    "profit": 35624.25,
+    "margin": 12
+  },
+  {
+    "id": "FIN0007",
+    "date": "2025-07-26",
+    "revenue": 140548.23,
+    "cogs": 82923.46,
+    "operatingExpenses": 26704.16,
+    "profit": 30920.61,
+    "margin": 22
+  },
+  {
+    "id": "FIN0008",
+    "date": "2025-07-22",
+    "revenue": 488357.7,
+    "cogs": 268596.74,
+    "operatingExpenses": 122089.43,
+    "profit": 97671.54,
+    "margin": 20
+  },
+  {
+    "id": "FIN0009",
+    "date": "2025-08-01",
+    "revenue": 497680.54,
+    "cogs": 338422.77,
+    "operatingExpenses": 99536.11,
+    "profit": 59721.66,
+    "margin": 12
+  },
+  {
+    "id": "FIN0010",
+    "date": "2025-08-03",
+    "revenue": 427309.7,
+    "cogs": 222201.04,
+    "operatingExpenses": 85461.94,
+    "profit": 119646.72,
+    "margin": 28
+  },
+  {
+    "id": "FIN0011",
+    "date": "2025-08-08",
+    "revenue": 476560.52,
+    "cogs": 328826.76,
+    "operatingExpenses": 119140.13,
+    "profit": 28593.63,
+    "margin": 6
+  },
+  {
+    "id": "FIN0012",
+    "date": "2025-10-20",
+    "revenue": 451117.15,
+    "cogs": 230069.75,
+    "operatingExpenses": 94734.6,
+    "profit": 126312.8,
+    "margin": 28
+  },
+  {
+    "id": "FIN0013",
+    "date": "2025-08-19",
+    "revenue": 495581.58,
+    "cogs": 282481.5,
+    "operatingExpenses": 123895.4,
+    "profit": 89204.68,
+    "margin": 18
+  },
+  {
+    "id": "FIN0014",
+    "date": "2025-07-26",
+    "revenue": 290031.63,
+    "cogs": 145015.82,
+    "operatingExpenses": 52205.69,
+    "profit": 92810.12,
+    "margin": 32
+  },
+  {
+    "id": "FIN0015",
+    "date": "2025-09-23",
+    "revenue": 174968.3,
+    "cogs": 106730.66,
+    "operatingExpenses": 38493.03,
+    "profit": 29744.61,
+    "margin": 17
+  },
+  {
+    "id": "FIN0016",
+    "date": "2025-08-18",
+    "revenue": 113919.05,
+    "cogs": 69490.62,
+    "operatingExpenses": 26201.38,
+    "profit": 18227.05,
+    "margin": 16
+  },
+  {
+    "id": "FIN0017",
+    "date": "2025-09-30",
+    "revenue": 120528.17,
+    "cogs": 66290.49,
+    "operatingExpenses": 20489.79,
+    "profit": 33747.89,
+    "margin": 28
+  },
+  {
+    "id": "FIN0018",
+    "date": "2025-08-23",
+    "revenue": 299198.91,
+    "cogs": 176527.36,
+    "operatingExpenses": 47871.83,
+    "profit": 74799.73,
+    "margin": 25
+  },
+  {
+    "id": "FIN0019",
+    "date": "2025-09-26",
+    "revenue": 114519.06,
+    "cogs": 73292.2,
+    "operatingExpenses": 22903.81,
+    "profit": 18323.05,
+    "margin": 16
+  },
+  {
+    "id": "FIN0020",
+    "date": "2025-09-10",
+    "revenue": 454702.5,
+    "cogs": 254633.4,
+    "operatingExpenses": 86393.48,
+    "profit": 113675.62,
+    "margin": 25
+  },
+  {
+    "id": "FIN0021",
+    "date": "2025-08-25",
+    "revenue": 180111.73,
+    "cogs": 109868.16,
+    "operatingExpenses": 34221.23,
+    "profit": 36022.35,
+    "margin": 20
+  },
+  {
+    "id": "FIN0022",
+    "date": "2025-09-21",
+    "revenue": 389053.79,
+    "cogs": 241213.35,
+    "operatingExpenses": 58358.07,
+    "profit": 89482.37,
+    "margin": 23
+  },
+  {
+    "id": "FIN0023",
+    "date": "2025-09-28",
+    "revenue": 112298.18,
+    "cogs": 62886.98,
+    "operatingExpenses": 22459.64,
+    "profit": 26951.56,
+    "margin": 24
+  },
+  {
+    "id": "FIN0024",
+    "date": "2025-09-15",
+    "revenue": 370677.7,
+    "cogs": 233526.95,
+    "operatingExpenses": 77842.32,
+    "profit": 59308.43,
+    "margin": 16
+  },
+  {
+    "id": "FIN0025",
+    "date": "2025-10-28",
+    "revenue": 355128.51,
+    "cogs": 184666.83,
+    "operatingExpenses": 56820.56,
+    "profit": 113641.12,
+    "margin": 32
+  },
+  {
+    "id": "FIN0026",
+    "date": "2025-08-03",
+    "revenue": 315494.12,
+    "cogs": 157747.06,
+    "operatingExpenses": 59943.88,
+    "profit": 97803.18,
+    "margin": 31
+  },
+  {
+    "id": "FIN0027",
+    "date": "2025-08-24",
+    "revenue": 144198.14,
+    "cogs": 85076.9,
+    "operatingExpenses": 23071.7,
+    "profit": 36049.54,
+    "margin": 25
+  },
+  {
+    "id": "FIN0028",
+    "date": "2025-10-16",
+    "revenue": 358137.37,
+    "cogs": 247114.79,
+    "operatingExpenses": 89534.34,
+    "profit": 21488.24,
+    "margin": 6
+  },
+  {
+    "id": "FIN0029",
+    "date": "2025-09-05",
+    "revenue": 142519.9,
+    "cogs": 84086.74,
+    "operatingExpenses": 28503.98,
+    "profit": 29929.18,
+    "margin": 21
+  },
+  {
+    "id": "FIN0030",
+    "date": "2025-07-21",
+    "revenue": 199170.57,
+    "cogs": 133444.28,
+    "operatingExpenses": 35850.7,
+    "profit": 29875.59,
+    "margin": 15
+  },
+  {
+    "id": "FIN0031",
+    "date": "2025-08-26",
+    "revenue": 189781.7,
+    "cogs": 121460.29,
+    "operatingExpenses": 39854.16,
+    "profit": 28467.25,
+    "margin": 15
+  },
+  {
+    "id": "FIN0032",
+    "date": "2025-08-06",
+    "revenue": 122685.18,
+    "cogs": 84652.77,
+    "operatingExpenses": 28217.59,
+    "profit": 9814.81,
+    "margin": 8
+  },
+  {
+    "id": "FIN0033",
+    "date": "2025-10-28",
+    "revenue": 342691.98,
+    "cogs": 233030.55,
+    "operatingExpenses": 65111.48,
+    "profit": 44549.96,
+    "margin": 13
+  },
+  {
+    "id": "FIN0034",
+    "date": "2025-08-11",
+    "revenue": 187140.1,
+    "cogs": 112284.06,
+    "operatingExpenses": 37428.02,
+    "profit": 37428.02,
+    "margin": 20
+  },
+  {
+    "id": "FIN0035",
+    "date": "2025-08-15",
+    "revenue": 482061.11,
+    "cogs": 255492.39,
+    "operatingExpenses": 106053.44,
+    "profit": 120515.28,
+    "margin": 25
+  },
+  {
+    "id": "FIN0036",
+    "date": "2025-09-01",
+    "revenue": 211742.26,
+    "cogs": 105871.13,
+    "operatingExpenses": 48700.72,
+    "profit": 57170.41,
+    "margin": 27
+  },
+  {
+    "id": "FIN0037",
+    "date": "2025-09-16",
+    "revenue": 301616.36,
+    "cogs": 202082.96,
+    "operatingExpenses": 45242.45,
+    "profit": 54290.94,
+    "margin": 18
+  },
+  {
+    "id": "FIN0038",
+    "date": "2025-09-06",
+    "revenue": 347014.44,
+    "cogs": 225559.39,
+    "operatingExpenses": 58992.45,
+    "profit": 62462.6,
+    "margin": 18
+  },
+  {
+    "id": "FIN0039",
+    "date": "2025-09-07",
+    "revenue": 263863.54,
+    "cogs": 166234.03,
+    "operatingExpenses": 52772.71,
+    "profit": 44856.8,
+    "margin": 17
+  },
+  {
+    "id": "FIN0040",
+    "date": "2025-08-06",
+    "revenue": 419723.15,
+    "cogs": 247636.66,
+    "operatingExpenses": 88141.86,
+    "profit": 83944.63,
+    "margin": 20
+  },
+  {
+    "id": "FIN0041",
+    "date": "2025-08-31",
+    "revenue": 236038.57,
+    "cogs": 120379.67,
+    "operatingExpenses": 51928.49,
+    "profit": 63730.41,
+    "margin": 27
+  },
+  {
+    "id": "FIN0042",
+    "date": "2025-09-02",
+    "revenue": 176838.03,
+    "cogs": 91955.78,
+    "operatingExpenses": 42441.13,
+    "profit": 42441.13,
+    "margin": 24
+  },
+  {
+    "id": "FIN0043",
+    "date": "2025-10-23",
+    "revenue": 180572.11,
+    "cogs": 126400.48,
+    "operatingExpenses": 37920.14,
+    "profit": 16251.49,
+    "margin": 9
+  },
+  {
+    "id": "FIN0044",
+    "date": "2025-08-10",
+    "revenue": 182051.25,
+    "cogs": 105589.72,
+    "operatingExpenses": 32769.22,
+    "profit": 43692.3,
+    "margin": 24
+  },
+  {
+    "id": "FIN0045",
+    "date": "2025-09-07",
+    "revenue": 268995.39,
+    "cogs": 153327.37,
+    "operatingExpenses": 51109.12,
+    "profit": 64558.89,
+    "margin": 24
+  },
+  {
+    "id": "FIN0046",
+    "date": "2025-10-06",
+    "revenue": 473546.63,
+    "cogs": 246244.25,
+    "operatingExpenses": 80502.93,
+    "profit": 146799.46,
+    "margin": 31
+  },
+  {
+    "id": "FIN0047",
+    "date": "2025-08-07",
+    "revenue": 172059.93,
+    "cogs": 110118.36,
+    "operatingExpenses": 34411.99,
+    "profit": 27529.59,
+    "margin": 16
+  },
+  {
+    "id": "FIN0048",
+    "date": "2025-08-06",
+    "revenue": 479566.4,
+    "cogs": 302126.83,
+    "operatingExpenses": 95913.28,
+    "profit": 81526.29,
+    "margin": 17
+  },
+  {
+    "id": "FIN0049",
+    "date": "2025-08-09",
+    "revenue": 483749.8,
+    "cogs": 299924.88,
+    "operatingExpenses": 82237.47,
+    "profit": 101587.46,
+    "margin": 21
+  },
+  {
+    "id": "FIN0050",
+    "date": "2025-10-20",
+    "revenue": 104102.55,
+    "cogs": 72871.79,
+    "operatingExpenses": 18738.46,
+    "profit": 12492.31,
+    "margin": 12
+  },
+  {
+    "id": "FIN0051",
+    "date": "2025-10-10",
+    "revenue": 355279.41,
+    "cogs": 213167.65,
+    "operatingExpenses": 74608.68,
+    "profit": 67503.09,
+    "margin": 19
+  },
+  {
+    "id": "FIN0052",
+    "date": "2025-09-09",
+    "revenue": 196689.78,
+    "cogs": 116046.97,
+    "operatingExpenses": 43271.75,
+    "profit": 37371.06,
+    "margin": 19
+  },
+  {
+    "id": "FIN0053",
+    "date": "2025-09-15",
+    "revenue": 432098.93,
+    "cogs": 272222.33,
+    "operatingExpenses": 95061.76,
+    "profit": 64814.84,
+    "margin": 15
+  },
+  {
+    "id": "FIN0054",
+    "date": "2025-10-24",
+    "revenue": 391143.03,
+    "cogs": 219040.1,
+    "operatingExpenses": 70405.75,
+    "profit": 101697.19,
+    "margin": 26
+  },
+  {
+    "id": "FIN0055",
+    "date": "2025-10-11",
+    "revenue": 311683.33,
+    "cogs": 155841.67,
+    "operatingExpenses": 46752.5,
+    "profit": 109089.17,
+    "margin": 35
+  },
+  {
+    "id": "FIN0056",
+    "date": "2025-09-17",
+    "revenue": 243632.53,
+    "cogs": 143743.19,
+    "operatingExpenses": 56035.48,
+    "profit": 43853.86,
+    "margin": 18
+  },
+  {
+    "id": "FIN0057",
+    "date": "2025-08-07",
+    "revenue": 416043.84,
+    "cogs": 224663.67,
+    "operatingExpenses": 104010.96,
+    "profit": 87369.21,
+    "margin": 21
+  },
+  {
+    "id": "FIN0058",
+    "date": "2025-09-24",
+    "revenue": 487505.29,
+    "cogs": 312003.39,
+    "operatingExpenses": 121876.32,
+    "profit": 53625.58,
+    "margin": 11
+  },
+  {
+    "id": "FIN0059",
+    "date": "2025-07-22",
+    "revenue": 162952.52,
+    "cogs": 107548.66,
+    "operatingExpenses": 26072.4,
+    "profit": 29331.45,
+    "margin": 18
+  },
+  {
+    "id": "FIN0060",
+    "date": "2025-09-22",
+    "revenue": 450032.91,
+    "cogs": 247518.1,
+    "operatingExpenses": 85506.25,
+    "profit": 117008.56,
+    "margin": 26
+  },
+  {
+    "id": "FIN0061",
+    "date": "2025-10-15",
+    "revenue": 242873.34,
+    "cogs": 170011.34,
+    "operatingExpenses": 48574.67,
+    "profit": 24287.33,
+    "margin": 10
+  },
+  {
+    "id": "FIN0062",
+    "date": "2025-09-07",
+    "revenue": 280564.98,
+    "cogs": 143088.14,
+    "operatingExpenses": 47696.05,
+    "profit": 89780.79,
+    "margin": 32
+  },
+  {
+    "id": "FIN0063",
+    "date": "2025-10-21",
+    "revenue": 437844.97,
+    "cogs": 258328.53,
+    "operatingExpenses": 109461.24,
+    "profit": 70055.2,
+    "margin": 16
+  },
+  {
+    "id": "FIN0064",
+    "date": "2025-09-17",
+    "revenue": 399002.55,
+    "cogs": 223441.43,
+    "operatingExpenses": 59850.38,
+    "profit": 115710.74,
+    "margin": 29
+  },
+  {
+    "id": "FIN0065",
+    "date": "2025-08-19",
+    "revenue": 147166.61,
+    "cogs": 98601.63,
+    "operatingExpenses": 26489.99,
+    "profit": 22074.99,
+    "margin": 15
+  },
+  {
+    "id": "FIN0066",
+    "date": "2025-09-25",
+    "revenue": 322684.1,
+    "cogs": 222652.03,
+    "operatingExpenses": 67763.66,
+    "profit": 32268.41,
+    "margin": 10
+  },
+  {
+    "id": "FIN0067",
+    "date": "2025-09-12",
+    "revenue": 139998.1,
+    "cogs": 78398.94,
+    "operatingExpenses": 34999.53,
+    "profit": 26599.64,
+    "margin": 19
+  },
+  {
+    "id": "FIN0068",
+    "date": "2025-10-08",
+    "revenue": 311828.16,
+    "cogs": 155914.08,
+    "operatingExpenses": 59247.35,
+    "profit": 96666.73,
+    "margin": 31
+  },
+  {
+    "id": "FIN0069",
+    "date": "2025-10-23",
+    "revenue": 176447.13,
+    "cogs": 95281.45,
+    "operatingExpenses": 44111.78,
+    "profit": 37053.9,
+    "margin": 21
+  },
+  {
+    "id": "FIN0070",
+    "date": "2025-07-30",
+    "revenue": 278958.33,
+    "cogs": 164585.41,
+    "operatingExpenses": 44633.33,
+    "profit": 69739.58,
+    "margin": 25
+  },
+  {
+    "id": "FIN0071",
+    "date": "2025-08-27",
+    "revenue": 345745.96,
+    "cogs": 172872.98,
+    "operatingExpenses": 62234.27,
+    "profit": 110638.71,
+    "margin": 32
+  },
+  {
+    "id": "FIN0072",
+    "date": "2025-10-18",
+    "revenue": 423198.55,
+    "cogs": 287775.01,
+    "operatingExpenses": 88871.7,
+    "profit": 46551.84,
+    "margin": 11
+  },
+  {
+    "id": "FIN0073",
+    "date": "2025-08-08",
+    "revenue": 142279.68,
+    "cogs": 98172.98,
+    "operatingExpenses": 32724.33,
+    "profit": 11382.37,
+    "margin": 8
+  },
+  {
+    "id": "FIN0074",
+    "date": "2025-07-30",
+    "revenue": 221866.64,
+    "cogs": 119807.99,
+    "operatingExpenses": 42154.66,
+    "profit": 59903.99,
+    "margin": 27
+  },
+  {
+    "id": "FIN0075",
+    "date": "2025-10-18",
+    "revenue": 410257.72,
+    "cogs": 270770.1,
+    "operatingExpenses": 65641.24,
+    "profit": 73846.39,
+    "margin": 18
+  },
+  {
+    "id": "FIN0076",
+    "date": "2025-09-04",
+    "revenue": 491111.68,
+    "cogs": 329044.83,
+    "operatingExpenses": 108044.57,
+    "profit": 54022.28,
+    "margin": 11
+  },
+  {
+    "id": "FIN0077",
+    "date": "2025-08-28",
+    "revenue": 177037.5,
+    "cogs": 118615.13,
+    "operatingExpenses": 26555.63,
+    "profit": 31866.75,
+    "margin": 18
+  },
+  {
+    "id": "FIN0078",
+    "date": "2025-08-30",
+    "revenue": 317814.2,
+    "cogs": 184332.24,
+    "operatingExpenses": 60384.7,
+    "profit": 73097.27,
+    "margin": 23
+  },
+  {
+    "id": "FIN0079",
+    "date": "2025-08-13",
+    "revenue": 111801.94,
+    "cogs": 70435.22,
+    "operatingExpenses": 23478.41,
+    "profit": 17888.31,
+    "margin": 16
+  },
+  {
+    "id": "FIN0080",
+    "date": "2025-08-23",
+    "revenue": 223499.35,
+    "cogs": 149744.56,
+    "operatingExpenses": 40229.88,
+    "profit": 33524.9,
+    "margin": 15
+  },
+  {
+    "id": "FIN0081",
+    "date": "2025-08-12",
+    "revenue": 164868.72,
+    "cogs": 115408.1,
+    "operatingExpenses": 26379,
+    "profit": 23081.62,
+    "margin": 14
+  },
+  {
+    "id": "FIN0082",
+    "date": "2025-09-27",
+    "revenue": 157736.8,
+    "cogs": 108838.39,
+    "operatingExpenses": 37856.83,
+    "profit": 11041.58,
+    "margin": 7
+  },
+  {
+    "id": "FIN0083",
+    "date": "2025-09-22",
+    "revenue": 313231.16,
+    "cogs": 175409.45,
+    "operatingExpenses": 62646.23,
+    "profit": 75175.48,
+    "margin": 24
+  },
+  {
+    "id": "FIN0084",
+    "date": "2025-07-25",
+    "revenue": 381787.11,
+    "cogs": 225254.39,
+    "operatingExpenses": 68721.68,
+    "profit": 87811.04,
+    "margin": 23
+  },
+  {
+    "id": "FIN0085",
+    "date": "2025-09-09",
+    "revenue": 428889.79,
+    "cogs": 218733.79,
+    "operatingExpenses": 72911.26,
+    "profit": 137244.73,
+    "margin": 32
+  },
+  {
+    "id": "FIN0086",
+    "date": "2025-08-09",
+    "revenue": 421065.41,
+    "cogs": 223164.67,
+    "operatingExpenses": 63159.81,
+    "profit": 134740.93,
+    "margin": 32
+  },
+  {
+    "id": "FIN0087",
+    "date": "2025-09-13",
+    "revenue": 162735.77,
+    "cogs": 81367.88,
+    "operatingExpenses": 39056.58,
+    "profit": 42311.3,
+    "margin": 26
+  },
+  {
+    "id": "FIN0088",
+    "date": "2025-10-19",
+    "revenue": 143603.35,
+    "cogs": 83289.94,
+    "operatingExpenses": 24412.57,
+    "profit": 35900.84,
+    "margin": 25
+  },
+  {
+    "id": "FIN0089",
+    "date": "2025-08-09",
+    "revenue": 117078.8,
+    "cogs": 66734.92,
+    "operatingExpenses": 24586.55,
+    "profit": 25757.34,
+    "margin": 22
+  },
+  {
+    "id": "FIN0090",
+    "date": "2025-07-22",
+    "revenue": 231084.31,
+    "cogs": 120163.84,
+    "operatingExpenses": 48527.71,
+    "profit": 62392.76,
+    "margin": 27
+  },
+  {
+    "id": "FIN0091",
+    "date": "2025-09-30",
+    "revenue": 134312.22,
+    "cogs": 68499.23,
+    "operatingExpenses": 25519.32,
+    "profit": 40293.67,
+    "margin": 30
+  },
+  {
+    "id": "FIN0092",
+    "date": "2025-09-23",
+    "revenue": 248670.9,
+    "cogs": 164122.79,
+    "operatingExpenses": 49734.18,
+    "profit": 34813.93,
+    "margin": 14
+  },
+  {
+    "id": "FIN0093",
+    "date": "2025-10-10",
+    "revenue": 218013.26,
+    "cogs": 130807.96,
+    "operatingExpenses": 54503.32,
+    "profit": 32701.99,
+    "margin": 15
+  },
+  {
+    "id": "FIN0094",
+    "date": "2025-10-11",
+    "revenue": 226412.18,
+    "cogs": 147167.92,
+    "operatingExpenses": 49810.68,
+    "profit": 29433.58,
+    "margin": 13
+  },
+  {
+    "id": "FIN0095",
+    "date": "2025-09-05",
+    "revenue": 246520.14,
+    "cogs": 165168.49,
+    "operatingExpenses": 49304.03,
+    "profit": 32047.62,
+    "margin": 13
+  },
+  {
+    "id": "FIN0096",
+    "date": "2025-07-27",
+    "revenue": 190667.19,
+    "cogs": 116306.99,
+    "operatingExpenses": 30506.75,
+    "profit": 43853.45,
+    "margin": 23
+  },
+  {
+    "id": "FIN0097",
+    "date": "2025-08-15",
+    "revenue": 488956.69,
+    "cogs": 322711.42,
+    "operatingExpenses": 97791.34,
+    "profit": 68453.94,
+    "margin": 14
+  },
+  {
+    "id": "FIN0098",
+    "date": "2025-10-20",
+    "revenue": 284324.61,
+    "cogs": 193340.73,
+    "operatingExpenses": 62551.41,
+    "profit": 28432.46,
+    "margin": 10
+  },
+  {
+    "id": "FIN0099",
+    "date": "2025-10-05",
+    "revenue": 189381.06,
+    "cogs": 123097.69,
+    "operatingExpenses": 45451.45,
+    "profit": 20831.92,
+    "margin": 11
+  },
+  {
+    "id": "FIN0100",
+    "date": "2025-10-27",
+    "revenue": 199294.35,
+    "cogs": 109611.89,
+    "operatingExpenses": 39858.87,
+    "profit": 49823.59,
+    "margin": 25
+  }
+]

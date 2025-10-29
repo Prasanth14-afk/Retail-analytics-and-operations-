@@ -1,0 +1,2402 @@
+[
+  {
+    "id": "FT00001",
+    "storeId": "ST0309",
+    "date": "2025-10-26",
+    "hour": 12,
+    "visitors": 198,
+    "conversions": 41
+  },
+  {
+    "id": "FT00002",
+    "storeId": "ST0148",
+    "date": "2025-09-27",
+    "hour": 9,
+    "visitors": 126,
+    "conversions": 25
+  },
+  {
+    "id": "FT00003",
+    "storeId": "ST0278",
+    "date": "2025-10-24",
+    "hour": 12,
+    "visitors": 129,
+    "conversions": 24
+  },
+  {
+    "id": "FT00004",
+    "storeId": "ST0411",
+    "date": "2025-10-26",
+    "hour": 20,
+    "visitors": 362,
+    "conversions": 133
+  },
+  {
+    "id": "FT00005",
+    "storeId": "ST0275",
+    "date": "2025-08-23",
+    "hour": 11,
+    "visitors": 313,
+    "conversions": 118
+  },
+  {
+    "id": "FT00006",
+    "storeId": "ST0352",
+    "date": "2025-10-22",
+    "hour": 19,
+    "visitors": 233,
+    "conversions": 37
+  },
+  {
+    "id": "FT00007",
+    "storeId": "ST0136",
+    "date": "2025-08-17",
+    "hour": 18,
+    "visitors": 169,
+    "conversions": 49
+  },
+  {
+    "id": "FT00008",
+    "storeId": "ST0298",
+    "date": "2025-10-26",
+    "hour": 15,
+    "visitors": 103,
+    "conversions": 27
+  },
+  {
+    "id": "FT00009",
+    "storeId": "ST0184",
+    "date": "2025-10-17",
+    "hour": 14,
+    "visitors": 166,
+    "conversions": 58
+  },
+  {
+    "id": "FT00010",
+    "storeId": "ST0280",
+    "date": "2025-10-18",
+    "hour": 22,
+    "visitors": 209,
+    "conversions": 33
+  },
+  {
+    "id": "FT00011",
+    "storeId": "ST0419",
+    "date": "2025-08-23",
+    "hour": 11,
+    "visitors": 246,
+    "conversions": 41
+  },
+  {
+    "id": "FT00012",
+    "storeId": "ST0053",
+    "date": "2025-09-14",
+    "hour": 13,
+    "visitors": 204,
+    "conversions": 40
+  },
+  {
+    "id": "FT00013",
+    "storeId": "ST0265",
+    "date": "2025-08-15",
+    "hour": 9,
+    "visitors": 719,
+    "conversions": 215
+  },
+  {
+    "id": "FT00014",
+    "storeId": "ST0246",
+    "date": "2025-08-13",
+    "hour": 12,
+    "visitors": 526,
+    "conversions": 99
+  },
+  {
+    "id": "FT00015",
+    "storeId": "ST0398",
+    "date": "2025-08-20",
+    "hour": 16,
+    "visitors": 708,
+    "conversions": 155
+  },
+  {
+    "id": "FT00016",
+    "storeId": "ST0074",
+    "date": "2025-10-05",
+    "hour": 18,
+    "visitors": 135,
+    "conversions": 35
+  },
+  {
+    "id": "FT00017",
+    "storeId": "ST0342",
+    "date": "2025-10-18",
+    "hour": 16,
+    "visitors": 461,
+    "conversions": 179
+  },
+  {
+    "id": "FT00018",
+    "storeId": "ST0120",
+    "date": "2025-08-08",
+    "hour": 8,
+    "visitors": 507,
+    "conversions": 101
+  },
+  {
+    "id": "FT00019",
+    "storeId": "ST0443",
+    "date": "2025-09-13",
+    "hour": 13,
+    "visitors": 343,
+    "conversions": 123
+  },
+  {
+    "id": "FT00020",
+    "storeId": "ST0448",
+    "date": "2025-08-23",
+    "hour": 16,
+    "visitors": 67,
+    "conversions": 10
+  },
+  {
+    "id": "FT00021",
+    "storeId": "ST0128",
+    "date": "2025-09-21",
+    "hour": 16,
+    "visitors": 741,
+    "conversions": 251
+  },
+  {
+    "id": "FT00022",
+    "storeId": "ST0233",
+    "date": "2025-09-30",
+    "hour": 12,
+    "visitors": 188,
+    "conversions": 65
+  },
+  {
+    "id": "FT00023",
+    "storeId": "ST0206",
+    "date": "2025-09-01",
+    "hour": 16,
+    "visitors": 264,
+    "conversions": 58
+  },
+  {
+    "id": "FT00024",
+    "storeId": "ST0199",
+    "date": "2025-09-15",
+    "hour": 16,
+    "visitors": 120,
+    "conversions": 34
+  },
+  {
+    "id": "FT00025",
+    "storeId": "ST0077",
+    "date": "2025-09-02",
+    "hour": 9,
+    "visitors": 666,
+    "conversions": 219
+  },
+  {
+    "id": "FT00026",
+    "storeId": "ST0497",
+    "date": "2025-08-26",
+    "hour": 22,
+    "visitors": 715,
+    "conversions": 135
+  },
+  {
+    "id": "FT00027",
+    "storeId": "ST0162",
+    "date": "2025-08-28",
+    "hour": 21,
+    "visitors": 159,
+    "conversions": 54
+  },
+  {
+    "id": "FT00028",
+    "storeId": "ST0267",
+    "date": "2025-09-11",
+    "hour": 17,
+    "visitors": 76,
+    "conversions": 13
+  },
+  {
+    "id": "FT00029",
+    "storeId": "ST0018",
+    "date": "2025-09-24",
+    "hour": 9,
+    "visitors": 430,
+    "conversions": 107
+  },
+  {
+    "id": "FT00030",
+    "storeId": "ST0454",
+    "date": "2025-08-03",
+    "hour": 11,
+    "visitors": 457,
+    "conversions": 178
+  },
+  {
+    "id": "FT00031",
+    "storeId": "ST0216",
+    "date": "2025-08-31",
+    "hour": 16,
+    "visitors": 706,
+    "conversions": 176
+  },
+  {
+    "id": "FT00032",
+    "storeId": "ST0418",
+    "date": "2025-08-29",
+    "hour": 17,
+    "visitors": 189,
+    "conversions": 68
+  },
+  {
+    "id": "FT00033",
+    "storeId": "ST0158",
+    "date": "2025-08-25",
+    "hour": 17,
+    "visitors": 722,
+    "conversions": 173
+  },
+  {
+    "id": "FT00034",
+    "storeId": "ST0388",
+    "date": "2025-08-01",
+    "hour": 9,
+    "visitors": 259,
+    "conversions": 75
+  },
+  {
+    "id": "FT00035",
+    "storeId": "ST0083",
+    "date": "2025-10-05",
+    "hour": 8,
+    "visitors": 709,
+    "conversions": 184
+  },
+  {
+    "id": "FT00036",
+    "storeId": "ST0377",
+    "date": "2025-09-10",
+    "hour": 20,
+    "visitors": 663,
+    "conversions": 172
+  },
+  {
+    "id": "FT00037",
+    "storeId": "ST0080",
+    "date": "2025-08-18",
+    "hour": 21,
+    "visitors": 643,
+    "conversions": 199
+  },
+  {
+    "id": "FT00038",
+    "storeId": "ST0340",
+    "date": "2025-08-14",
+    "hour": 8,
+    "visitors": 379,
+    "conversions": 109
+  },
+  {
+    "id": "FT00039",
+    "storeId": "ST0476",
+    "date": "2025-08-28",
+    "hour": 17,
+    "visitors": 678,
+    "conversions": 250
+  },
+  {
+    "id": "FT00040",
+    "storeId": "ST0386",
+    "date": "2025-08-16",
+    "hour": 12,
+    "visitors": 700,
+    "conversions": 244
+  },
+  {
+    "id": "FT00041",
+    "storeId": "ST0217",
+    "date": "2025-08-18",
+    "hour": 22,
+    "visitors": 401,
+    "conversions": 88
+  },
+  {
+    "id": "FT00042",
+    "storeId": "ST0056",
+    "date": "2025-08-04",
+    "hour": 8,
+    "visitors": 188,
+    "conversions": 30
+  },
+  {
+    "id": "FT00043",
+    "storeId": "ST0148",
+    "date": "2025-10-20",
+    "hour": 16,
+    "visitors": 484,
+    "conversions": 106
+  },
+  {
+    "id": "FT00044",
+    "storeId": "ST0243",
+    "date": "2025-10-19",
+    "hour": 11,
+    "visitors": 652,
+    "conversions": 202
+  },
+  {
+    "id": "FT00045",
+    "storeId": "ST0452",
+    "date": "2025-10-22",
+    "hour": 22,
+    "visitors": 553,
+    "conversions": 165
+  },
+  {
+    "id": "FT00046",
+    "storeId": "ST0251",
+    "date": "2025-09-29",
+    "hour": 8,
+    "visitors": 595,
+    "conversions": 178
+  },
+  {
+    "id": "FT00047",
+    "storeId": "ST0002",
+    "date": "2025-08-22",
+    "hour": 21,
+    "visitors": 473,
+    "conversions": 108
+  },
+  {
+    "id": "FT00048",
+    "storeId": "ST0481",
+    "date": "2025-10-14",
+    "hour": 21,
+    "visitors": 191,
+    "conversions": 66
+  },
+  {
+    "id": "FT00049",
+    "storeId": "ST0011",
+    "date": "2025-10-22",
+    "hour": 11,
+    "visitors": 507,
+    "conversions": 177
+  },
+  {
+    "id": "FT00050",
+    "storeId": "ST0150",
+    "date": "2025-10-15",
+    "hour": 10,
+    "visitors": 315,
+    "conversions": 59
+  },
+  {
+    "id": "FT00051",
+    "storeId": "ST0483",
+    "date": "2025-10-15",
+    "hour": 9,
+    "visitors": 464,
+    "conversions": 185
+  },
+  {
+    "id": "FT00052",
+    "storeId": "ST0441",
+    "date": "2025-10-21",
+    "hour": 10,
+    "visitors": 286,
+    "conversions": 105
+  },
+  {
+    "id": "FT00053",
+    "storeId": "ST0315",
+    "date": "2025-08-02",
+    "hour": 16,
+    "visitors": 112,
+    "conversions": 30
+  },
+  {
+    "id": "FT00054",
+    "storeId": "ST0352",
+    "date": "2025-09-11",
+    "hour": 9,
+    "visitors": 235,
+    "conversions": 54
+  },
+  {
+    "id": "FT00055",
+    "storeId": "ST0387",
+    "date": "2025-09-28",
+    "hour": 8,
+    "visitors": 616,
+    "conversions": 184
+  },
+  {
+    "id": "FT00056",
+    "storeId": "ST0217",
+    "date": "2025-10-28",
+    "hour": 12,
+    "visitors": 575,
+    "conversions": 97
+  },
+  {
+    "id": "FT00057",
+    "storeId": "ST0420",
+    "date": "2025-10-16",
+    "hour": 9,
+    "visitors": 61,
+    "conversions": 17
+  },
+  {
+    "id": "FT00058",
+    "storeId": "ST0376",
+    "date": "2025-08-02",
+    "hour": 16,
+    "visitors": 661,
+    "conversions": 218
+  },
+  {
+    "id": "FT00059",
+    "storeId": "ST0034",
+    "date": "2025-08-07",
+    "hour": 21,
+    "visitors": 666,
+    "conversions": 159
+  },
+  {
+    "id": "FT00060",
+    "storeId": "ST0143",
+    "date": "2025-08-26",
+    "hour": 20,
+    "visitors": 526,
+    "conversions": 205
+  },
+  {
+    "id": "FT00061",
+    "storeId": "ST0301",
+    "date": "2025-10-17",
+    "hour": 20,
+    "visitors": 512,
+    "conversions": 158
+  },
+  {
+    "id": "FT00062",
+    "storeId": "ST0470",
+    "date": "2025-09-29",
+    "hour": 12,
+    "visitors": 135,
+    "conversions": 39
+  },
+  {
+    "id": "FT00063",
+    "storeId": "ST0025",
+    "date": "2025-10-25",
+    "hour": 17,
+    "visitors": 778,
+    "conversions": 248
+  },
+  {
+    "id": "FT00064",
+    "storeId": "ST0116",
+    "date": "2025-09-01",
+    "hour": 10,
+    "visitors": 467,
+    "conversions": 140
+  },
+  {
+    "id": "FT00065",
+    "storeId": "ST0062",
+    "date": "2025-08-17",
+    "hour": 10,
+    "visitors": 532,
+    "conversions": 186
+  },
+  {
+    "id": "FT00066",
+    "storeId": "ST0006",
+    "date": "2025-08-05",
+    "hour": 12,
+    "visitors": 587,
+    "conversions": 93
+  },
+  {
+    "id": "FT00067",
+    "storeId": "ST0039",
+    "date": "2025-08-28",
+    "hour": 14,
+    "visitors": 508,
+    "conversions": 121
+  },
+  {
+    "id": "FT00068",
+    "storeId": "ST0314",
+    "date": "2025-10-15",
+    "hour": 19,
+    "visitors": 617,
+    "conversions": 148
+  },
+  {
+    "id": "FT00069",
+    "storeId": "ST0388",
+    "date": "2025-09-10",
+    "hour": 14,
+    "visitors": 667,
+    "conversions": 173
+  },
+  {
+    "id": "FT00070",
+    "storeId": "ST0214",
+    "date": "2025-09-19",
+    "hour": 14,
+    "visitors": 98,
+    "conversions": 27
+  },
+  {
+    "id": "FT00071",
+    "storeId": "ST0367",
+    "date": "2025-09-25",
+    "hour": 21,
+    "visitors": 463,
+    "conversions": 138
+  },
+  {
+    "id": "FT00072",
+    "storeId": "ST0119",
+    "date": "2025-10-17",
+    "hour": 10,
+    "visitors": 229,
+    "conversions": 68
+  },
+  {
+    "id": "FT00073",
+    "storeId": "ST0187",
+    "date": "2025-09-03",
+    "hour": 17,
+    "visitors": 629,
+    "conversions": 207
+  },
+  {
+    "id": "FT00074",
+    "storeId": "ST0266",
+    "date": "2025-10-14",
+    "hour": 13,
+    "visitors": 485,
+    "conversions": 97
+  },
+  {
+    "id": "FT00075",
+    "storeId": "ST0158",
+    "date": "2025-08-07",
+    "hour": 16,
+    "visitors": 89,
+    "conversions": 30
+  },
+  {
+    "id": "FT00076",
+    "storeId": "ST0205",
+    "date": "2025-10-07",
+    "hour": 10,
+    "visitors": 380,
+    "conversions": 87
+  },
+  {
+    "id": "FT00077",
+    "storeId": "ST0500",
+    "date": "2025-09-08",
+    "hour": 17,
+    "visitors": 797,
+    "conversions": 255
+  },
+  {
+    "id": "FT00078",
+    "storeId": "ST0293",
+    "date": "2025-08-12",
+    "hour": 12,
+    "visitors": 791,
+    "conversions": 181
+  },
+  {
+    "id": "FT00079",
+    "storeId": "ST0308",
+    "date": "2025-08-01",
+    "hour": 21,
+    "visitors": 603,
+    "conversions": 174
+  },
+  {
+    "id": "FT00080",
+    "storeId": "ST0065",
+    "date": "2025-10-06",
+    "hour": 13,
+    "visitors": 593,
+    "conversions": 154
+  },
+  {
+    "id": "FT00081",
+    "storeId": "ST0431",
+    "date": "2025-08-13",
+    "hour": 21,
+    "visitors": 776,
+    "conversions": 170
+  },
+  {
+    "id": "FT00082",
+    "storeId": "ST0406",
+    "date": "2025-09-24",
+    "hour": 10,
+    "visitors": 508,
+    "conversions": 193
+  },
+  {
+    "id": "FT00083",
+    "storeId": "ST0445",
+    "date": "2025-10-23",
+    "hour": 16,
+    "visitors": 696,
+    "conversions": 264
+  },
+  {
+    "id": "FT00084",
+    "storeId": "ST0008",
+    "date": "2025-09-07",
+    "hour": 10,
+    "visitors": 331,
+    "conversions": 102
+  },
+  {
+    "id": "FT00085",
+    "storeId": "ST0268",
+    "date": "2025-10-22",
+    "hour": 8,
+    "visitors": 62,
+    "conversions": 24
+  },
+  {
+    "id": "FT00086",
+    "storeId": "ST0463",
+    "date": "2025-10-25",
+    "hour": 18,
+    "visitors": 159,
+    "conversions": 41
+  },
+  {
+    "id": "FT00087",
+    "storeId": "ST0153",
+    "date": "2025-10-23",
+    "hour": 19,
+    "visitors": 391,
+    "conversions": 97
+  },
+  {
+    "id": "FT00088",
+    "storeId": "ST0247",
+    "date": "2025-09-13",
+    "hour": 12,
+    "visitors": 639,
+    "conversions": 172
+  },
+  {
+    "id": "FT00089",
+    "storeId": "ST0242",
+    "date": "2025-09-13",
+    "hour": 10,
+    "visitors": 728,
+    "conversions": 174
+  },
+  {
+    "id": "FT00090",
+    "storeId": "ST0410",
+    "date": "2025-10-01",
+    "hour": 19,
+    "visitors": 463,
+    "conversions": 78
+  },
+  {
+    "id": "FT00091",
+    "storeId": "ST0410",
+    "date": "2025-08-24",
+    "hour": 19,
+    "visitors": 249,
+    "conversions": 84
+  },
+  {
+    "id": "FT00092",
+    "storeId": "ST0339",
+    "date": "2025-10-11",
+    "hour": 21,
+    "visitors": 619,
+    "conversions": 99
+  },
+  {
+    "id": "FT00093",
+    "storeId": "ST0044",
+    "date": "2025-09-12",
+    "hour": 10,
+    "visitors": 387,
+    "conversions": 112
+  },
+  {
+    "id": "FT00094",
+    "storeId": "ST0084",
+    "date": "2025-09-10",
+    "hour": 19,
+    "visitors": 576,
+    "conversions": 218
+  },
+  {
+    "id": "FT00095",
+    "storeId": "ST0166",
+    "date": "2025-10-02",
+    "hour": 13,
+    "visitors": 648,
+    "conversions": 252
+  },
+  {
+    "id": "FT00096",
+    "storeId": "ST0017",
+    "date": "2025-08-31",
+    "hour": 19,
+    "visitors": 508,
+    "conversions": 187
+  },
+  {
+    "id": "FT00097",
+    "storeId": "ST0320",
+    "date": "2025-08-29",
+    "hour": 16,
+    "visitors": 559,
+    "conversions": 162
+  },
+  {
+    "id": "FT00098",
+    "storeId": "ST0405",
+    "date": "2025-08-09",
+    "hour": 11,
+    "visitors": 157,
+    "conversions": 62
+  },
+  {
+    "id": "FT00099",
+    "storeId": "ST0340",
+    "date": "2025-09-05",
+    "hour": 9,
+    "visitors": 583,
+    "conversions": 186
+  },
+  {
+    "id": "FT00100",
+    "storeId": "ST0026",
+    "date": "2025-09-14",
+    "hour": 19,
+    "visitors": 540,
+    "conversions": 145
+  },
+  {
+    "id": "FT00101",
+    "storeId": "ST0378",
+    "date": "2025-09-16",
+    "hour": 8,
+    "visitors": 89,
+    "conversions": 31
+  },
+  {
+    "id": "FT00102",
+    "storeId": "ST0172",
+    "date": "2025-08-08",
+    "hour": 21,
+    "visitors": 357,
+    "conversions": 92
+  },
+  {
+    "id": "FT00103",
+    "storeId": "ST0292",
+    "date": "2025-08-27",
+    "hour": 12,
+    "visitors": 305,
+    "conversions": 103
+  },
+  {
+    "id": "FT00104",
+    "storeId": "ST0175",
+    "date": "2025-08-24",
+    "hour": 17,
+    "visitors": 745,
+    "conversions": 141
+  },
+  {
+    "id": "FT00105",
+    "storeId": "ST0037",
+    "date": "2025-07-31",
+    "hour": 14,
+    "visitors": 203,
+    "conversions": 64
+  },
+  {
+    "id": "FT00106",
+    "storeId": "ST0201",
+    "date": "2025-09-07",
+    "hour": 9,
+    "visitors": 370,
+    "conversions": 122
+  },
+  {
+    "id": "FT00107",
+    "storeId": "ST0409",
+    "date": "2025-09-13",
+    "hour": 9,
+    "visitors": 233,
+    "conversions": 39
+  },
+  {
+    "id": "FT00108",
+    "storeId": "ST0037",
+    "date": "2025-09-04",
+    "hour": 22,
+    "visitors": 178,
+    "conversions": 56
+  },
+  {
+    "id": "FT00109",
+    "storeId": "ST0264",
+    "date": "2025-09-29",
+    "hour": 20,
+    "visitors": 725,
+    "conversions": 282
+  },
+  {
+    "id": "FT00110",
+    "storeId": "ST0437",
+    "date": "2025-09-10",
+    "hour": 14,
+    "visitors": 643,
+    "conversions": 128
+  },
+  {
+    "id": "FT00111",
+    "storeId": "ST0148",
+    "date": "2025-10-17",
+    "hour": 8,
+    "visitors": 450,
+    "conversions": 90
+  },
+  {
+    "id": "FT00112",
+    "storeId": "ST0399",
+    "date": "2025-09-23",
+    "hour": 13,
+    "visitors": 155,
+    "conversions": 52
+  },
+  {
+    "id": "FT00113",
+    "storeId": "ST0098",
+    "date": "2025-09-10",
+    "hour": 20,
+    "visitors": 275,
+    "conversions": 90
+  },
+  {
+    "id": "FT00114",
+    "storeId": "ST0062",
+    "date": "2025-10-10",
+    "hour": 13,
+    "visitors": 346,
+    "conversions": 79
+  },
+  {
+    "id": "FT00115",
+    "storeId": "ST0391",
+    "date": "2025-08-17",
+    "hour": 17,
+    "visitors": 443,
+    "conversions": 159
+  },
+  {
+    "id": "FT00116",
+    "storeId": "ST0071",
+    "date": "2025-08-04",
+    "hour": 19,
+    "visitors": 71,
+    "conversions": 27
+  },
+  {
+    "id": "FT00117",
+    "storeId": "ST0283",
+    "date": "2025-09-01",
+    "hour": 19,
+    "visitors": 727,
+    "conversions": 167
+  },
+  {
+    "id": "FT00118",
+    "storeId": "ST0327",
+    "date": "2025-09-07",
+    "hour": 8,
+    "visitors": 472,
+    "conversions": 103
+  },
+  {
+    "id": "FT00119",
+    "storeId": "ST0132",
+    "date": "2025-10-27",
+    "hour": 12,
+    "visitors": 99,
+    "conversions": 38
+  },
+  {
+    "id": "FT00120",
+    "storeId": "ST0114",
+    "date": "2025-10-14",
+    "hour": 22,
+    "visitors": 56,
+    "conversions": 13
+  },
+  {
+    "id": "FT00121",
+    "storeId": "ST0290",
+    "date": "2025-08-11",
+    "hour": 15,
+    "visitors": 112,
+    "conversions": 17
+  },
+  {
+    "id": "FT00122",
+    "storeId": "ST0055",
+    "date": "2025-10-17",
+    "hour": 19,
+    "visitors": 169,
+    "conversions": 50
+  },
+  {
+    "id": "FT00123",
+    "storeId": "ST0207",
+    "date": "2025-08-18",
+    "hour": 14,
+    "visitors": 761,
+    "conversions": 281
+  },
+  {
+    "id": "FT00124",
+    "storeId": "ST0440",
+    "date": "2025-08-28",
+    "hour": 9,
+    "visitors": 231,
+    "conversions": 66
+  },
+  {
+    "id": "FT00125",
+    "storeId": "ST0072",
+    "date": "2025-09-17",
+    "hour": 19,
+    "visitors": 339,
+    "conversions": 77
+  },
+  {
+    "id": "FT00126",
+    "storeId": "ST0290",
+    "date": "2025-09-19",
+    "hour": 16,
+    "visitors": 100,
+    "conversions": 21
+  },
+  {
+    "id": "FT00127",
+    "storeId": "ST0483",
+    "date": "2025-09-03",
+    "hour": 8,
+    "visitors": 524,
+    "conversions": 209
+  },
+  {
+    "id": "FT00128",
+    "storeId": "ST0396",
+    "date": "2025-08-05",
+    "hour": 13,
+    "visitors": 348,
+    "conversions": 97
+  },
+  {
+    "id": "FT00129",
+    "storeId": "ST0057",
+    "date": "2025-10-24",
+    "hour": 16,
+    "visitors": 241,
+    "conversions": 67
+  },
+  {
+    "id": "FT00130",
+    "storeId": "ST0265",
+    "date": "2025-08-11",
+    "hour": 18,
+    "visitors": 292,
+    "conversions": 52
+  },
+  {
+    "id": "FT00131",
+    "storeId": "ST0061",
+    "date": "2025-08-18",
+    "hour": 16,
+    "visitors": 593,
+    "conversions": 100
+  },
+  {
+    "id": "FT00132",
+    "storeId": "ST0141",
+    "date": "2025-08-14",
+    "hour": 19,
+    "visitors": 726,
+    "conversions": 108
+  },
+  {
+    "id": "FT00133",
+    "storeId": "ST0366",
+    "date": "2025-09-12",
+    "hour": 9,
+    "visitors": 204,
+    "conversions": 38
+  },
+  {
+    "id": "FT00134",
+    "storeId": "ST0194",
+    "date": "2025-08-06",
+    "hour": 8,
+    "visitors": 649,
+    "conversions": 175
+  },
+  {
+    "id": "FT00135",
+    "storeId": "ST0148",
+    "date": "2025-08-14",
+    "hour": 19,
+    "visitors": 105,
+    "conversions": 30
+  },
+  {
+    "id": "FT00136",
+    "storeId": "ST0015",
+    "date": "2025-08-31",
+    "hour": 20,
+    "visitors": 131,
+    "conversions": 35
+  },
+  {
+    "id": "FT00137",
+    "storeId": "ST0393",
+    "date": "2025-09-26",
+    "hour": 13,
+    "visitors": 659,
+    "conversions": 138
+  },
+  {
+    "id": "FT00138",
+    "storeId": "ST0049",
+    "date": "2025-09-07",
+    "hour": 17,
+    "visitors": 115,
+    "conversions": 29
+  },
+  {
+    "id": "FT00139",
+    "storeId": "ST0435",
+    "date": "2025-10-02",
+    "hour": 9,
+    "visitors": 142,
+    "conversions": 41
+  },
+  {
+    "id": "FT00140",
+    "storeId": "ST0195",
+    "date": "2025-08-05",
+    "hour": 18,
+    "visitors": 390,
+    "conversions": 74
+  },
+  {
+    "id": "FT00141",
+    "storeId": "ST0123",
+    "date": "2025-08-21",
+    "hour": 14,
+    "visitors": 261,
+    "conversions": 96
+  },
+  {
+    "id": "FT00142",
+    "storeId": "ST0050",
+    "date": "2025-09-26",
+    "hour": 14,
+    "visitors": 53,
+    "conversions": 17
+  },
+  {
+    "id": "FT00143",
+    "storeId": "ST0075",
+    "date": "2025-10-07",
+    "hour": 9,
+    "visitors": 706,
+    "conversions": 261
+  },
+  {
+    "id": "FT00144",
+    "storeId": "ST0056",
+    "date": "2025-10-02",
+    "hour": 9,
+    "visitors": 710,
+    "conversions": 120
+  },
+  {
+    "id": "FT00145",
+    "storeId": "ST0231",
+    "date": "2025-10-14",
+    "hour": 22,
+    "visitors": 199,
+    "conversions": 75
+  },
+  {
+    "id": "FT00146",
+    "storeId": "ST0163",
+    "date": "2025-08-09",
+    "hour": 10,
+    "visitors": 398,
+    "conversions": 147
+  },
+  {
+    "id": "FT00147",
+    "storeId": "ST0136",
+    "date": "2025-08-03",
+    "hour": 11,
+    "visitors": 673,
+    "conversions": 208
+  },
+  {
+    "id": "FT00148",
+    "storeId": "ST0177",
+    "date": "2025-09-05",
+    "hour": 18,
+    "visitors": 544,
+    "conversions": 184
+  },
+  {
+    "id": "FT00149",
+    "storeId": "ST0484",
+    "date": "2025-09-07",
+    "hour": 14,
+    "visitors": 204,
+    "conversions": 36
+  },
+  {
+    "id": "FT00150",
+    "storeId": "ST0180",
+    "date": "2025-10-22",
+    "hour": 19,
+    "visitors": 402,
+    "conversions": 144
+  },
+  {
+    "id": "FT00151",
+    "storeId": "ST0228",
+    "date": "2025-09-11",
+    "hour": 9,
+    "visitors": 76,
+    "conversions": 13
+  },
+  {
+    "id": "FT00152",
+    "storeId": "ST0101",
+    "date": "2025-08-17",
+    "hour": 11,
+    "visitors": 691,
+    "conversions": 276
+  },
+  {
+    "id": "FT00153",
+    "storeId": "ST0490",
+    "date": "2025-08-20",
+    "hour": 11,
+    "visitors": 391,
+    "conversions": 125
+  },
+  {
+    "id": "FT00154",
+    "storeId": "ST0180",
+    "date": "2025-10-27",
+    "hour": 19,
+    "visitors": 262,
+    "conversions": 83
+  },
+  {
+    "id": "FT00155",
+    "storeId": "ST0040",
+    "date": "2025-08-30",
+    "hour": 13,
+    "visitors": 329,
+    "conversions": 72
+  },
+  {
+    "id": "FT00156",
+    "storeId": "ST0206",
+    "date": "2025-09-25",
+    "hour": 18,
+    "visitors": 169,
+    "conversions": 40
+  },
+  {
+    "id": "FT00157",
+    "storeId": "ST0309",
+    "date": "2025-10-27",
+    "hour": 10,
+    "visitors": 361,
+    "conversions": 93
+  },
+  {
+    "id": "FT00158",
+    "storeId": "ST0145",
+    "date": "2025-09-01",
+    "hour": 9,
+    "visitors": 355,
+    "conversions": 74
+  },
+  {
+    "id": "FT00159",
+    "storeId": "ST0081",
+    "date": "2025-10-25",
+    "hour": 19,
+    "visitors": 400,
+    "conversions": 60
+  },
+  {
+    "id": "FT00160",
+    "storeId": "ST0375",
+    "date": "2025-09-17",
+    "hour": 22,
+    "visitors": 762,
+    "conversions": 297
+  },
+  {
+    "id": "FT00161",
+    "storeId": "ST0408",
+    "date": "2025-09-07",
+    "hour": 22,
+    "visitors": 511,
+    "conversions": 86
+  },
+  {
+    "id": "FT00162",
+    "storeId": "ST0014",
+    "date": "2025-08-07",
+    "hour": 14,
+    "visitors": 112,
+    "conversions": 44
+  },
+  {
+    "id": "FT00163",
+    "storeId": "ST0213",
+    "date": "2025-10-23",
+    "hour": 18,
+    "visitors": 662,
+    "conversions": 205
+  },
+  {
+    "id": "FT00164",
+    "storeId": "ST0046",
+    "date": "2025-10-20",
+    "hour": 13,
+    "visitors": 324,
+    "conversions": 110
+  },
+  {
+    "id": "FT00165",
+    "storeId": "ST0353",
+    "date": "2025-09-28",
+    "hour": 18,
+    "visitors": 137,
+    "conversions": 36
+  },
+  {
+    "id": "FT00166",
+    "storeId": "ST0293",
+    "date": "2025-10-12",
+    "hour": 12,
+    "visitors": 482,
+    "conversions": 168
+  },
+  {
+    "id": "FT00167",
+    "storeId": "ST0120",
+    "date": "2025-09-19",
+    "hour": 10,
+    "visitors": 753,
+    "conversions": 188
+  },
+  {
+    "id": "FT00168",
+    "storeId": "ST0381",
+    "date": "2025-08-17",
+    "hour": 10,
+    "visitors": 332,
+    "conversions": 76
+  },
+  {
+    "id": "FT00169",
+    "storeId": "ST0114",
+    "date": "2025-09-29",
+    "hour": 22,
+    "visitors": 71,
+    "conversions": 26
+  },
+  {
+    "id": "FT00170",
+    "storeId": "ST0442",
+    "date": "2025-10-04",
+    "hour": 21,
+    "visitors": 593,
+    "conversions": 88
+  },
+  {
+    "id": "FT00171",
+    "storeId": "ST0462",
+    "date": "2025-10-06",
+    "hour": 20,
+    "visitors": 294,
+    "conversions": 76
+  },
+  {
+    "id": "FT00172",
+    "storeId": "ST0092",
+    "date": "2025-09-30",
+    "hour": 19,
+    "visitors": 504,
+    "conversions": 131
+  },
+  {
+    "id": "FT00173",
+    "storeId": "ST0095",
+    "date": "2025-08-18",
+    "hour": 15,
+    "visitors": 759,
+    "conversions": 250
+  },
+  {
+    "id": "FT00174",
+    "storeId": "ST0279",
+    "date": "2025-08-06",
+    "hour": 9,
+    "visitors": 375,
+    "conversions": 93
+  },
+  {
+    "id": "FT00175",
+    "storeId": "ST0232",
+    "date": "2025-09-15",
+    "hour": 17,
+    "visitors": 617,
+    "conversions": 197
+  },
+  {
+    "id": "FT00176",
+    "storeId": "ST0424",
+    "date": "2025-08-15",
+    "hour": 19,
+    "visitors": 432,
+    "conversions": 164
+  },
+  {
+    "id": "FT00177",
+    "storeId": "ST0458",
+    "date": "2025-09-27",
+    "hour": 13,
+    "visitors": 512,
+    "conversions": 143
+  },
+  {
+    "id": "FT00178",
+    "storeId": "ST0176",
+    "date": "2025-10-27",
+    "hour": 10,
+    "visitors": 385,
+    "conversions": 130
+  },
+  {
+    "id": "FT00179",
+    "storeId": "ST0069",
+    "date": "2025-08-27",
+    "hour": 15,
+    "visitors": 487,
+    "conversions": 150
+  },
+  {
+    "id": "FT00180",
+    "storeId": "ST0228",
+    "date": "2025-09-24",
+    "hour": 22,
+    "visitors": 779,
+    "conversions": 163
+  },
+  {
+    "id": "FT00181",
+    "storeId": "ST0030",
+    "date": "2025-08-31",
+    "hour": 16,
+    "visitors": 644,
+    "conversions": 122
+  },
+  {
+    "id": "FT00182",
+    "storeId": "ST0321",
+    "date": "2025-09-07",
+    "hour": 14,
+    "visitors": 797,
+    "conversions": 143
+  },
+  {
+    "id": "FT00183",
+    "storeId": "ST0092",
+    "date": "2025-08-14",
+    "hour": 8,
+    "visitors": 525,
+    "conversions": 147
+  },
+  {
+    "id": "FT00184",
+    "storeId": "ST0227",
+    "date": "2025-08-28",
+    "hour": 19,
+    "visitors": 755,
+    "conversions": 128
+  },
+  {
+    "id": "FT00185",
+    "storeId": "ST0187",
+    "date": "2025-10-03",
+    "hour": 18,
+    "visitors": 335,
+    "conversions": 130
+  },
+  {
+    "id": "FT00186",
+    "storeId": "ST0498",
+    "date": "2025-09-01",
+    "hour": 13,
+    "visitors": 420,
+    "conversions": 113
+  },
+  {
+    "id": "FT00187",
+    "storeId": "ST0254",
+    "date": "2025-08-31",
+    "hour": 17,
+    "visitors": 740,
+    "conversions": 229
+  },
+  {
+    "id": "FT00188",
+    "storeId": "ST0404",
+    "date": "2025-09-11",
+    "hour": 14,
+    "visitors": 165,
+    "conversions": 51
+  },
+  {
+    "id": "FT00189",
+    "storeId": "ST0418",
+    "date": "2025-09-01",
+    "hour": 20,
+    "visitors": 548,
+    "conversions": 153
+  },
+  {
+    "id": "FT00190",
+    "storeId": "ST0163",
+    "date": "2025-08-04",
+    "hour": 16,
+    "visitors": 358,
+    "conversions": 57
+  },
+  {
+    "id": "FT00191",
+    "storeId": "ST0486",
+    "date": "2025-09-20",
+    "hour": 10,
+    "visitors": 686,
+    "conversions": 164
+  },
+  {
+    "id": "FT00192",
+    "storeId": "ST0423",
+    "date": "2025-09-19",
+    "hour": 14,
+    "visitors": 131,
+    "conversions": 36
+  },
+  {
+    "id": "FT00193",
+    "storeId": "ST0204",
+    "date": "2025-08-19",
+    "hour": 21,
+    "visitors": 333,
+    "conversions": 56
+  },
+  {
+    "id": "FT00194",
+    "storeId": "ST0300",
+    "date": "2025-09-29",
+    "hour": 18,
+    "visitors": 64,
+    "conversions": 21
+  },
+  {
+    "id": "FT00195",
+    "storeId": "ST0235",
+    "date": "2025-10-17",
+    "hour": 13,
+    "visitors": 334,
+    "conversions": 63
+  },
+  {
+    "id": "FT00196",
+    "storeId": "ST0497",
+    "date": "2025-09-20",
+    "hour": 19,
+    "visitors": 135,
+    "conversions": 27
+  },
+  {
+    "id": "FT00197",
+    "storeId": "ST0428",
+    "date": "2025-09-29",
+    "hour": 20,
+    "visitors": 109,
+    "conversions": 25
+  },
+  {
+    "id": "FT00198",
+    "storeId": "ST0229",
+    "date": "2025-09-19",
+    "hour": 12,
+    "visitors": 537,
+    "conversions": 204
+  },
+  {
+    "id": "FT00199",
+    "storeId": "ST0405",
+    "date": "2025-08-19",
+    "hour": 12,
+    "visitors": 539,
+    "conversions": 86
+  },
+  {
+    "id": "FT00200",
+    "storeId": "ST0103",
+    "date": "2025-09-19",
+    "hour": 8,
+    "visitors": 717,
+    "conversions": 222
+  },
+  {
+    "id": "FT00201",
+    "storeId": "ST0430",
+    "date": "2025-09-21",
+    "hour": 17,
+    "visitors": 330,
+    "conversions": 59
+  },
+  {
+    "id": "FT00202",
+    "storeId": "ST0037",
+    "date": "2025-10-15",
+    "hour": 14,
+    "visitors": 274,
+    "conversions": 84
+  },
+  {
+    "id": "FT00203",
+    "storeId": "ST0421",
+    "date": "2025-10-23",
+    "hour": 11,
+    "visitors": 310,
+    "conversions": 62
+  },
+  {
+    "id": "FT00204",
+    "storeId": "ST0287",
+    "date": "2025-08-15",
+    "hour": 20,
+    "visitors": 544,
+    "conversions": 217
+  },
+  {
+    "id": "FT00205",
+    "storeId": "ST0055",
+    "date": "2025-10-16",
+    "hour": 10,
+    "visitors": 250,
+    "conversions": 55
+  },
+  {
+    "id": "FT00206",
+    "storeId": "ST0390",
+    "date": "2025-10-07",
+    "hour": 11,
+    "visitors": 320,
+    "conversions": 67
+  },
+  {
+    "id": "FT00207",
+    "storeId": "ST0358",
+    "date": "2025-10-15",
+    "hour": 22,
+    "visitors": 62,
+    "conversions": 13
+  },
+  {
+    "id": "FT00208",
+    "storeId": "ST0484",
+    "date": "2025-10-27",
+    "hour": 17,
+    "visitors": 790,
+    "conversions": 173
+  },
+  {
+    "id": "FT00209",
+    "storeId": "ST0104",
+    "date": "2025-08-21",
+    "hour": 8,
+    "visitors": 739,
+    "conversions": 147
+  },
+  {
+    "id": "FT00210",
+    "storeId": "ST0375",
+    "date": "2025-10-19",
+    "hour": 20,
+    "visitors": 488,
+    "conversions": 97
+  },
+  {
+    "id": "FT00211",
+    "storeId": "ST0001",
+    "date": "2025-08-07",
+    "hour": 14,
+    "visitors": 595,
+    "conversions": 136
+  },
+  {
+    "id": "FT00212",
+    "storeId": "ST0274",
+    "date": "2025-08-19",
+    "hour": 18,
+    "visitors": 724,
+    "conversions": 195
+  },
+  {
+    "id": "FT00213",
+    "storeId": "ST0063",
+    "date": "2025-08-31",
+    "hour": 14,
+    "visitors": 442,
+    "conversions": 110
+  },
+  {
+    "id": "FT00214",
+    "storeId": "ST0162",
+    "date": "2025-10-07",
+    "hour": 12,
+    "visitors": 462,
+    "conversions": 180
+  },
+  {
+    "id": "FT00215",
+    "storeId": "ST0437",
+    "date": "2025-08-04",
+    "hour": 19,
+    "visitors": 274,
+    "conversions": 84
+  },
+  {
+    "id": "FT00216",
+    "storeId": "ST0197",
+    "date": "2025-08-26",
+    "hour": 20,
+    "visitors": 201,
+    "conversions": 44
+  },
+  {
+    "id": "FT00217",
+    "storeId": "ST0272",
+    "date": "2025-07-31",
+    "hour": 21,
+    "visitors": 113,
+    "conversions": 20
+  },
+  {
+    "id": "FT00218",
+    "storeId": "ST0456",
+    "date": "2025-10-10",
+    "hour": 20,
+    "visitors": 559,
+    "conversions": 201
+  },
+  {
+    "id": "FT00219",
+    "storeId": "ST0200",
+    "date": "2025-10-26",
+    "hour": 16,
+    "visitors": 450,
+    "conversions": 157
+  },
+  {
+    "id": "FT00220",
+    "storeId": "ST0101",
+    "date": "2025-08-01",
+    "hour": 21,
+    "visitors": 355,
+    "conversions": 56
+  },
+  {
+    "id": "FT00221",
+    "storeId": "ST0060",
+    "date": "2025-10-19",
+    "hour": 17,
+    "visitors": 473,
+    "conversions": 151
+  },
+  {
+    "id": "FT00222",
+    "storeId": "ST0035",
+    "date": "2025-10-28",
+    "hour": 19,
+    "visitors": 320,
+    "conversions": 48
+  },
+  {
+    "id": "FT00223",
+    "storeId": "ST0136",
+    "date": "2025-10-08",
+    "hour": 11,
+    "visitors": 184,
+    "conversions": 46
+  },
+  {
+    "id": "FT00224",
+    "storeId": "ST0022",
+    "date": "2025-09-13",
+    "hour": 11,
+    "visitors": 438,
+    "conversions": 113
+  },
+  {
+    "id": "FT00225",
+    "storeId": "ST0187",
+    "date": "2025-08-06",
+    "hour": 18,
+    "visitors": 367,
+    "conversions": 69
+  },
+  {
+    "id": "FT00226",
+    "storeId": "ST0293",
+    "date": "2025-09-02",
+    "hour": 15,
+    "visitors": 333,
+    "conversions": 69
+  },
+  {
+    "id": "FT00227",
+    "storeId": "ST0236",
+    "date": "2025-10-04",
+    "hour": 15,
+    "visitors": 768,
+    "conversions": 245
+  },
+  {
+    "id": "FT00228",
+    "storeId": "ST0041",
+    "date": "2025-09-13",
+    "hour": 10,
+    "visitors": 140,
+    "conversions": 46
+  },
+  {
+    "id": "FT00229",
+    "storeId": "ST0306",
+    "date": "2025-10-07",
+    "hour": 15,
+    "visitors": 158,
+    "conversions": 42
+  },
+  {
+    "id": "FT00230",
+    "storeId": "ST0015",
+    "date": "2025-10-20",
+    "hour": 17,
+    "visitors": 375,
+    "conversions": 146
+  },
+  {
+    "id": "FT00231",
+    "storeId": "ST0309",
+    "date": "2025-10-24",
+    "hour": 17,
+    "visitors": 452,
+    "conversions": 167
+  },
+  {
+    "id": "FT00232",
+    "storeId": "ST0159",
+    "date": "2025-09-29",
+    "hour": 12,
+    "visitors": 213,
+    "conversions": 34
+  },
+  {
+    "id": "FT00233",
+    "storeId": "ST0340",
+    "date": "2025-10-19",
+    "hour": 19,
+    "visitors": 247,
+    "conversions": 39
+  },
+  {
+    "id": "FT00234",
+    "storeId": "ST0356",
+    "date": "2025-08-15",
+    "hour": 22,
+    "visitors": 735,
+    "conversions": 147
+  },
+  {
+    "id": "FT00235",
+    "storeId": "ST0132",
+    "date": "2025-08-11",
+    "hour": 12,
+    "visitors": 414,
+    "conversions": 107
+  },
+  {
+    "id": "FT00236",
+    "storeId": "ST0438",
+    "date": "2025-09-04",
+    "hour": 8,
+    "visitors": 663,
+    "conversions": 139
+  },
+  {
+    "id": "FT00237",
+    "storeId": "ST0470",
+    "date": "2025-09-08",
+    "hour": 12,
+    "visitors": 445,
+    "conversions": 137
+  },
+  {
+    "id": "FT00238",
+    "storeId": "ST0253",
+    "date": "2025-10-28",
+    "hour": 19,
+    "visitors": 459,
+    "conversions": 105
+  },
+  {
+    "id": "FT00239",
+    "storeId": "ST0126",
+    "date": "2025-08-15",
+    "hour": 14,
+    "visitors": 274,
+    "conversions": 109
+  },
+  {
+    "id": "FT00240",
+    "storeId": "ST0242",
+    "date": "2025-08-29",
+    "hour": 18,
+    "visitors": 703,
+    "conversions": 189
+  },
+  {
+    "id": "FT00241",
+    "storeId": "ST0279",
+    "date": "2025-09-26",
+    "hour": 18,
+    "visitors": 194,
+    "conversions": 48
+  },
+  {
+    "id": "FT00242",
+    "storeId": "ST0453",
+    "date": "2025-09-27",
+    "hour": 18,
+    "visitors": 722,
+    "conversions": 151
+  },
+  {
+    "id": "FT00243",
+    "storeId": "ST0056",
+    "date": "2025-09-26",
+    "hour": 19,
+    "visitors": 204,
+    "conversions": 73
+  },
+  {
+    "id": "FT00244",
+    "storeId": "ST0411",
+    "date": "2025-09-26",
+    "hour": 13,
+    "visitors": 375,
+    "conversions": 78
+  },
+  {
+    "id": "FT00245",
+    "storeId": "ST0022",
+    "date": "2025-09-27",
+    "hour": 18,
+    "visitors": 236,
+    "conversions": 37
+  },
+  {
+    "id": "FT00246",
+    "storeId": "ST0078",
+    "date": "2025-09-16",
+    "hour": 13,
+    "visitors": 349,
+    "conversions": 108
+  },
+  {
+    "id": "FT00247",
+    "storeId": "ST0424",
+    "date": "2025-08-12",
+    "hour": 17,
+    "visitors": 556,
+    "conversions": 216
+  },
+  {
+    "id": "FT00248",
+    "storeId": "ST0355",
+    "date": "2025-10-11",
+    "hour": 10,
+    "visitors": 384,
+    "conversions": 145
+  },
+  {
+    "id": "FT00249",
+    "storeId": "ST0271",
+    "date": "2025-09-16",
+    "hour": 20,
+    "visitors": 713,
+    "conversions": 242
+  },
+  {
+    "id": "FT00250",
+    "storeId": "ST0323",
+    "date": "2025-10-24",
+    "hour": 11,
+    "visitors": 592,
+    "conversions": 201
+  },
+  {
+    "id": "FT00251",
+    "storeId": "ST0169",
+    "date": "2025-09-07",
+    "hour": 14,
+    "visitors": 679,
+    "conversions": 244
+  },
+  {
+    "id": "FT00252",
+    "storeId": "ST0047",
+    "date": "2025-08-21",
+    "hour": 17,
+    "visitors": 638,
+    "conversions": 95
+  },
+  {
+    "id": "FT00253",
+    "storeId": "ST0470",
+    "date": "2025-08-12",
+    "hour": 12,
+    "visitors": 400,
+    "conversions": 88
+  },
+  {
+    "id": "FT00254",
+    "storeId": "ST0028",
+    "date": "2025-09-22",
+    "hour": 18,
+    "visitors": 763,
+    "conversions": 206
+  },
+  {
+    "id": "FT00255",
+    "storeId": "ST0268",
+    "date": "2025-08-13",
+    "hour": 14,
+    "visitors": 644,
+    "conversions": 109
+  },
+  {
+    "id": "FT00256",
+    "storeId": "ST0098",
+    "date": "2025-09-25",
+    "hour": 11,
+    "visitors": 143,
+    "conversions": 55
+  },
+  {
+    "id": "FT00257",
+    "storeId": "ST0278",
+    "date": "2025-10-02",
+    "hour": 8,
+    "visitors": 418,
+    "conversions": 137
+  },
+  {
+    "id": "FT00258",
+    "storeId": "ST0286",
+    "date": "2025-09-28",
+    "hour": 14,
+    "visitors": 497,
+    "conversions": 139
+  },
+  {
+    "id": "FT00259",
+    "storeId": "ST0322",
+    "date": "2025-10-18",
+    "hour": 18,
+    "visitors": 538,
+    "conversions": 156
+  },
+  {
+    "id": "FT00260",
+    "storeId": "ST0104",
+    "date": "2025-10-19",
+    "hour": 21,
+    "visitors": 708,
+    "conversions": 177
+  },
+  {
+    "id": "FT00261",
+    "storeId": "ST0277",
+    "date": "2025-09-03",
+    "hour": 8,
+    "visitors": 379,
+    "conversions": 106
+  },
+  {
+    "id": "FT00262",
+    "storeId": "ST0112",
+    "date": "2025-09-23",
+    "hour": 15,
+    "visitors": 243,
+    "conversions": 70
+  },
+  {
+    "id": "FT00263",
+    "storeId": "ST0152",
+    "date": "2025-09-21",
+    "hour": 15,
+    "visitors": 409,
+    "conversions": 85
+  },
+  {
+    "id": "FT00264",
+    "storeId": "ST0136",
+    "date": "2025-08-19",
+    "hour": 12,
+    "visitors": 380,
+    "conversions": 140
+  },
+  {
+    "id": "FT00265",
+    "storeId": "ST0314",
+    "date": "2025-09-06",
+    "hour": 21,
+    "visitors": 512,
+    "conversions": 204
+  },
+  {
+    "id": "FT00266",
+    "storeId": "ST0023",
+    "date": "2025-09-10",
+    "hour": 8,
+    "visitors": 674,
+    "conversions": 181
+  },
+  {
+    "id": "FT00267",
+    "storeId": "ST0378",
+    "date": "2025-08-15",
+    "hour": 14,
+    "visitors": 695,
+    "conversions": 194
+  },
+  {
+    "id": "FT00268",
+    "storeId": "ST0310",
+    "date": "2025-09-12",
+    "hour": 10,
+    "visitors": 508,
+    "conversions": 111
+  },
+  {
+    "id": "FT00269",
+    "storeId": "ST0341",
+    "date": "2025-09-11",
+    "hour": 14,
+    "visitors": 140,
+    "conversions": 56
+  },
+  {
+    "id": "FT00270",
+    "storeId": "ST0208",
+    "date": "2025-08-14",
+    "hour": 9,
+    "visitors": 127,
+    "conversions": 38
+  },
+  {
+    "id": "FT00271",
+    "storeId": "ST0249",
+    "date": "2025-08-26",
+    "hour": 16,
+    "visitors": 317,
+    "conversions": 79
+  },
+  {
+    "id": "FT00272",
+    "storeId": "ST0157",
+    "date": "2025-10-04",
+    "hour": 15,
+    "visitors": 292,
+    "conversions": 64
+  },
+  {
+    "id": "FT00273",
+    "storeId": "ST0129",
+    "date": "2025-09-17",
+    "hour": 20,
+    "visitors": 445,
+    "conversions": 120
+  },
+  {
+    "id": "FT00274",
+    "storeId": "ST0024",
+    "date": "2025-10-10",
+    "hour": 15,
+    "visitors": 438,
+    "conversions": 175
+  },
+  {
+    "id": "FT00275",
+    "storeId": "ST0073",
+    "date": "2025-08-21",
+    "hour": 10,
+    "visitors": 482,
+    "conversions": 192
+  },
+  {
+    "id": "FT00276",
+    "storeId": "ST0339",
+    "date": "2025-10-11",
+    "hour": 12,
+    "visitors": 265,
+    "conversions": 90
+  },
+  {
+    "id": "FT00277",
+    "storeId": "ST0203",
+    "date": "2025-08-20",
+    "hour": 15,
+    "visitors": 612,
+    "conversions": 116
+  },
+  {
+    "id": "FT00278",
+    "storeId": "ST0430",
+    "date": "2025-09-09",
+    "hour": 13,
+    "visitors": 207,
+    "conversions": 43
+  },
+  {
+    "id": "FT00279",
+    "storeId": "ST0088",
+    "date": "2025-10-05",
+    "hour": 10,
+    "visitors": 298,
+    "conversions": 101
+  },
+  {
+    "id": "FT00280",
+    "storeId": "ST0107",
+    "date": "2025-09-28",
+    "hour": 8,
+    "visitors": 540,
+    "conversions": 216
+  },
+  {
+    "id": "FT00281",
+    "storeId": "ST0171",
+    "date": "2025-08-13",
+    "hour": 17,
+    "visitors": 654,
+    "conversions": 235
+  },
+  {
+    "id": "FT00282",
+    "storeId": "ST0019",
+    "date": "2025-08-27",
+    "hour": 19,
+    "visitors": 711,
+    "conversions": 255
+  },
+  {
+    "id": "FT00283",
+    "storeId": "ST0097",
+    "date": "2025-10-01",
+    "hour": 21,
+    "visitors": 101,
+    "conversions": 36
+  },
+  {
+    "id": "FT00284",
+    "storeId": "ST0204",
+    "date": "2025-09-05",
+    "hour": 14,
+    "visitors": 403,
+    "conversions": 108
+  },
+  {
+    "id": "FT00285",
+    "storeId": "ST0244",
+    "date": "2025-09-21",
+    "hour": 14,
+    "visitors": 68,
+    "conversions": 25
+  },
+  {
+    "id": "FT00286",
+    "storeId": "ST0066",
+    "date": "2025-10-04",
+    "hour": 18,
+    "visitors": 277,
+    "conversions": 88
+  },
+  {
+    "id": "FT00287",
+    "storeId": "ST0336",
+    "date": "2025-10-23",
+    "hour": 15,
+    "visitors": 608,
+    "conversions": 103
+  },
+  {
+    "id": "FT00288",
+    "storeId": "ST0348",
+    "date": "2025-10-02",
+    "hour": 10,
+    "visitors": 561,
+    "conversions": 134
+  },
+  {
+    "id": "FT00289",
+    "storeId": "ST0289",
+    "date": "2025-08-19",
+    "hour": 14,
+    "visitors": 451,
+    "conversions": 175
+  },
+  {
+    "id": "FT00290",
+    "storeId": "ST0378",
+    "date": "2025-08-11",
+    "hour": 14,
+    "visitors": 565,
+    "conversions": 129
+  },
+  {
+    "id": "FT00291",
+    "storeId": "ST0337",
+    "date": "2025-08-11",
+    "hour": 21,
+    "visitors": 282,
+    "conversions": 73
+  },
+  {
+    "id": "FT00292",
+    "storeId": "ST0402",
+    "date": "2025-09-26",
+    "hour": 14,
+    "visitors": 69,
+    "conversions": 21
+  },
+  {
+    "id": "FT00293",
+    "storeId": "ST0427",
+    "date": "2025-09-29",
+    "hour": 15,
+    "visitors": 273,
+    "conversions": 73
+  },
+  {
+    "id": "FT00294",
+    "storeId": "ST0338",
+    "date": "2025-09-05",
+    "hour": 10,
+    "visitors": 505,
+    "conversions": 151
+  },
+  {
+    "id": "FT00295",
+    "storeId": "ST0466",
+    "date": "2025-09-17",
+    "hour": 21,
+    "visitors": 450,
+    "conversions": 130
+  },
+  {
+    "id": "FT00296",
+    "storeId": "ST0273",
+    "date": "2025-09-13",
+    "hour": 14,
+    "visitors": 637,
+    "conversions": 101
+  },
+  {
+    "id": "FT00297",
+    "storeId": "ST0463",
+    "date": "2025-09-15",
+    "hour": 9,
+    "visitors": 474,
+    "conversions": 132
+  },
+  {
+    "id": "FT00298",
+    "storeId": "ST0156",
+    "date": "2025-09-01",
+    "hour": 8,
+    "visitors": 752,
+    "conversions": 263
+  },
+  {
+    "id": "FT00299",
+    "storeId": "ST0146",
+    "date": "2025-09-04",
+    "hour": 19,
+    "visitors": 600,
+    "conversions": 192
+  },
+  {
+    "id": "FT00300",
+    "storeId": "ST0059",
+    "date": "2025-08-29",
+    "hour": 15,
+    "visitors": 733,
+    "conversions": 161
+  }
+]
